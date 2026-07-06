@@ -1,0 +1,501 @@
+lead_id,age,city_tier,occupation,annual_income_lakhs,investable_surplus_lakhs,existing_products,source,days_since_first_contact,touchpoints_last_30d,last_meeting_outcome
+L00001,48,Tier-1,Business owner,54.3,13.7,"PMS, AIF, Insurance",Existing-client-family,25,5,Objection
+L00002,35,Tier-1,Other,39.7,11.8,PMS,Referral,178,5,Neutral
+L00003,53,Tier-2,Self-employed,46.1,3.3,AIF,Digital,22,5,Neutral
+L00004,54,Tier-1,Business owner,63.1,26.5,"Insurance, Direct Equity, PMS",Digital,45,6,No-show
+L00005,25,Tier-1,Salaried,20.8,4.2,None,Digital,2,5,Objection
+L00006,32,Tier-3,Retired,67.7,11.1,"FD, PMS",Event,65,8,Neutral
+L00007,46,Tier-3,Salaried,14.0,11.7,"Direct Equity, MF, FD",Referral,25,1,Positive
+L00008,42,Tier-2,Business owner,46.1,11.3,FD,Existing-client-family,21,5,Objection
+L00009,45,Tier-1,Salaried,41.5,11.0,None,Cold-call,7,6,Neutral
+L00010,36,Tier-2,Self-employed,23.8,1.5,None,Existing-client-family,127,6,None-yet
+L00011,54,Tier-2,Business owner,36.0,7.3,None,Event,44,5,Objection
+L00012,53,Tier-1,Self-employed,23.7,9.9,AIF,Existing-client-family,14,3,None-yet
+L00013,46,Tier-2,Retired,17.3,5.4,Insurance,Cold-call,1,3,Neutral
+L00014,56,Tier-1,Salaried,28.6,9.9,None,Digital,80,3,None-yet
+L00015,50,Tier-1,Self-employed,16.9,10.6,"AIF, Insurance, Direct Equity",Digital,43,4,Positive
+L00016,36,Tier-2,Salaried,45.9,24.4,None,Cold-call,24,3,Neutral
+L00017,49,Tier-1,Salaried,16.4,1.4,PMS,Digital,14,4,Positive
+L00018,35,Tier-1,Salaried,60.2,14.9,None,Cold-call,58,2,Positive
+L00019,54,Tier-2,Salaried,16.0,10.7,None,Referral,67,3,None-yet
+L00020,45,Tier-3,Salaried,24.6,9.5,None,Event,23,2,No-show
+L00021,43,Tier-2,Business owner,23.6,2.8,None,Referral,37,6,Objection
+L00022,38,Tier-2,Business owner,92.5,17.7,Direct Equity,Existing-client-family,149,2,Objection
+L00023,57,Tier-3,Business owner,46.1,22.5,None,Referral,180,5,Objection
+L00024,43,Tier-1,Salaried,31.6,4.9,None,Referral,92,3,Objection
+L00025,41,Tier-1,Salaried,51.9,33.9,Direct Equity,Event,30,4,None-yet
+L00026,41,Tier-1,Salaried,10.0,5.3,None,Event,5,8,Objection
+L00027,50,Tier-1,Business owner,35.5,21.3,MF,Cold-call,79,9,No-show
+L00028,49,Tier-2,Retired,148.2,30.6,None,Existing-client-family,2,3,Neutral
+L00029,49,Tier-1,Salaried,40.2,12.6,None,Digital,17,0,None-yet
+L00030,49,Tier-1,Business owner,38.4,17.0,None,Event,2,8,Positive
+L00031,66,Tier-1,Salaried,53.7,12.1,None,Digital,50,2,Neutral
+L00032,41,Tier-1,Salaried,68.5,47.8,AIF,Digital,20,1,None-yet
+L00033,40,Tier-3,Salaried,10.0,1.0,None,Digital,36,2,Positive
+L00034,37,Tier-1,Salaried,11.3,1.4,"Insurance, Direct Equity, MF",Referral,27,3,Positive
+L00035,51,Tier-1,Business owner,42.4,10.8,None,Cold-call,37,1,Neutral
+L00036,56,Tier-1,Retired,22.2,2.1,PMS,Cold-call,6,3,Neutral
+L00037,44,Tier-1,Salaried,91.7,57.4,"AIF, FD",Referral,5,4,None-yet
+L00038,37,Tier-2,Self-employed,29.4,12.4,None,Existing-client-family,52,3,None-yet
+L00039,37,Tier-1,Business owner,10.0,1.3,FD,Digital,25,1,Neutral
+L00040,52,Tier-1,Other,15.1,6.2,"MF, FD",Referral,26,6,None-yet
+L00041,52,Tier-1,Self-employed,10.0,6.1,AIF,Cold-call,3,4,Objection
+L00042,50,Tier-2,Salaried,31.1,4.9,MF,Referral,42,3,None-yet
+L00043,38,Tier-2,Self-employed,32.1,14.3,"AIF, MF, PMS",Referral,37,4,Neutral
+L00044,47,Tier-2,Salaried,27.2,9.9,Insurance,Cold-call,1,1,Neutral
+L00045,46,Tier-2,Other,77.9,38.5,"AIF, FD",Referral,4,7,Positive
+L00046,47,Tier-2,Salaried,84.7,40.4,None,Referral,35,6,Positive
+L00047,54,Tier-1,Business owner,32.5,13.1,None,Cold-call,3,5,No-show
+L00048,47,Tier-1,Salaried,10.0,2.3,None,Referral,13,5,Positive
+L00049,52,Tier-2,Salaried,56.4,17.6,None,Event,6,3,Objection
+L00050,46,Tier-1,Retired,54.0,50.5,None,Event,30,6,Objection
+L00051,48,Tier-2,Self-employed,45.4,3.4,Direct Equity,Referral,32,5,Positive
+L00052,51,Tier-1,Salaried,72.8,41.3,None,Digital,39,5,Neutral
+L00053,30,Tier-2,Retired,16.2,2.2,None,Referral,61,5,Objection
+L00054,42,Tier-3,Retired,149.3,42.8,None,Cold-call,22,4,None-yet
+L00055,40,Tier-2,Salaried,18.7,2.1,None,Referral,2,3,Neutral
+L00056,39,Tier-3,Self-employed,61.8,35.4,"Insurance, Direct Equity",Existing-client-family,88,8,None-yet
+L00057,42,Tier-2,Self-employed,11.2,3.5,"MF, AIF",Referral,39,3,None-yet
+L00058,60,Tier-3,Self-employed,19.1,11.8,"FD, MF, PMS",Cold-call,21,1,Objection
+L00059,36,Tier-1,Salaried,105.8,41.7,"AIF, FD",Referral,38,6,Neutral
+L00060,55,Tier-1,Salaried,30.5,10.0,FD,Referral,11,1,No-show
+L00061,28,Tier-2,Retired,65.9,10.4,"PMS, FD",Digital,19,5,None-yet
+L00062,42,Tier-1,Retired,43.2,27.0,AIF,Cold-call,54,0,Neutral
+L00063,47,Tier-1,Business owner,34.0,6.7,FD,Existing-client-family,45,1,None-yet
+L00064,51,Tier-3,Other,95.1,39.1,PMS,Referral,127,4,None-yet
+L00065,52,Tier-2,Business owner,31.0,24.5,"AIF, Direct Equity",Referral,16,4,Neutral
+L00066,53,Tier-1,Business owner,10.5,7.6,FD,Digital,38,4,No-show
+L00067,42,Tier-1,Business owner,20.9,10.9,AIF,Digital,31,8,Objection
+L00068,40,Tier-1,Self-employed,53.8,18.9,None,Event,2,6,No-show
+L00069,54,Tier-1,Self-employed,48.3,14.1,None,Existing-client-family,13,5,None-yet
+L00070,43,Tier-3,Salaried,12.2,1.0,None,Event,134,3,Positive
+L00071,32,Tier-1,Self-employed,22.0,7.9,AIF,Referral,23,7,Positive
+L00072,34,Tier-1,Salaried,24.4,10.0,None,Digital,5,4,Neutral
+L00073,36,Tier-2,Salaried,28.3,13.4,"AIF, MF",Cold-call,29,6,None-yet
+L00074,50,Tier-1,Self-employed,14.0,1.0,AIF,Digital,61,4,Neutral
+L00075,46,Tier-1,Salaried,23.6,11.2,Direct Equity,Cold-call,91,2,None-yet
+L00076,52,Tier-2,Salaried,22.0,8.2,None,Referral,47,3,Neutral
+L00077,41,Tier-2,Business owner,62.8,15.6,None,Digital,15,4,Neutral
+L00078,47,Tier-3,Retired,64.5,17.2,MF,Event,51,2,None-yet
+L00079,51,Tier-2,Salaried,33.0,8.9,None,Digital,46,7,Objection
+L00080,42,Tier-1,Salaried,27.8,1.5,Insurance,Existing-client-family,115,1,Neutral
+L00081,50,Tier-2,Salaried,40.4,17.6,FD,Digital,45,8,Positive
+L00082,38,Tier-3,Business owner,20.7,10.0,PMS,Referral,31,3,Positive
+L00083,41,Tier-2,Business owner,16.4,1.7,None,Digital,9,4,Positive
+L00084,41,Tier-3,Salaried,19.0,8.1,None,Referral,34,3,Neutral
+L00085,33,Tier-2,Business owner,23.5,1.0,"Direct Equity, PMS",Digital,14,3,Objection
+L00086,50,Tier-3,Salaried,16.2,5.9,Insurance,Referral,6,4,Neutral
+L00087,40,Tier-1,Salaried,41.0,12.2,None,Cold-call,104,6,Positive
+L00088,45,Tier-2,Other,61.0,38.2,"Insurance, PMS, MF",Event,21,1,Neutral
+L00089,50,Tier-1,Salaried,12.0,10.0,"FD, Direct Equity",Digital,73,3,Neutral
+L00090,49,Tier-2,Salaried,37.2,17.2,None,Referral,68,7,None-yet
+L00091,52,Tier-2,Salaried,31.4,17.9,None,Digital,21,3,Neutral
+L00092,44,Tier-3,Self-employed,46.5,23.4,Insurance,Event,18,2,Positive
+L00093,41,Tier-3,Retired,36.3,8.6,None,Cold-call,53,1,Objection
+L00094,44,Tier-1,Other,13.2,7.8,"AIF, PMS",Referral,1,6,None-yet
+L00095,28,Tier-2,Salaried,15.1,11.1,None,Digital,58,11,No-show
+L00096,31,Tier-2,Salaried,37.4,10.0,None,Digital,13,6,None-yet
+L00097,32,Tier-1,Business owner,75.2,23.5,Insurance,Digital,9,2,None-yet
+L00098,35,Tier-1,Salaried,10.0,1.0,"Direct Equity, Insurance",Referral,11,7,Objection
+L00099,49,Tier-1,Retired,46.6,21.0,None,Existing-client-family,83,4,None-yet
+L00100,36,Tier-2,Business owner,84.2,59.9,MF,Referral,99,7,Positive
+L00101,41,Tier-1,Salaried,32.9,31.9,AIF,Referral,21,7,None-yet
+L00102,58,Tier-3,Business owner,53.8,6.2,"MF, Direct Equity, AIF",Referral,47,5,None-yet
+L00103,41,Tier-1,Salaried,22.4,5.3,None,Cold-call,180,3,None-yet
+L00104,52,Tier-3,Salaried,33.7,4.9,"Insurance, PMS, Direct Equity",Digital,8,5,Neutral
+L00105,36,Tier-1,Self-employed,11.8,2.9,"Insurance, MF, AIF",Referral,35,3,No-show
+L00106,43,Tier-2,Self-employed,10.0,1.0,PMS,Digital,10,7,Positive
+L00107,35,Tier-1,Business owner,70.8,4.3,FD,Cold-call,122,3,Objection
+L00108,42,Tier-2,Business owner,18.4,4.4,"PMS, MF",Digital,3,0,Neutral
+L00109,53,Tier-2,Other,26.6,1.7,Insurance,Existing-client-family,3,1,Objection
+L00110,28,Tier-3,Other,13.9,1.9,MF,Digital,22,8,Objection
+L00111,49,Tier-2,Self-employed,13.6,8.3,None,Referral,5,7,Neutral
+L00112,47,Tier-1,Salaried,32.4,5.7,None,Existing-client-family,16,0,Neutral
+L00113,39,Tier-1,Business owner,22.0,1.0,AIF,Event,72,3,Neutral
+L00114,31,Tier-1,Other,47.7,25.5,None,Digital,18,4,Objection
+L00115,46,Tier-1,Salaried,50.2,25.3,MF,Event,1,1,Objection
+L00116,40,Tier-2,Self-employed,45.8,25.9,None,Digital,152,4,No-show
+L00117,47,Tier-2,Salaried,43.3,15.5,"PMS, Insurance, FD",Digital,6,5,Positive
+L00118,45,Tier-2,Salaried,110.4,89.9,"MF, FD",Event,34,2,None-yet
+L00119,61,Tier-3,Business owner,17.3,5.1,"MF, PMS",Event,34,2,Objection
+L00120,43,Tier-2,Salaried,35.2,8.3,FD,Digital,20,5,Positive
+L00121,35,Tier-2,Business owner,80.9,41.6,None,Cold-call,0,5,Neutral
+L00122,47,Tier-1,Business owner,88.7,45.5,None,Digital,26,4,Neutral
+L00123,47,Tier-1,Business owner,13.5,1.0,"Direct Equity, PMS, AIF",Referral,13,3,Neutral
+L00124,59,Tier-2,Salaried,29.4,19.0,PMS,Existing-client-family,49,3,Positive
+L00125,53,Tier-3,Salaried,94.7,25.6,"AIF, FD",Digital,2,1,Neutral
+L00126,49,Tier-1,Business owner,52.2,26.7,None,Cold-call,59,7,Positive
+L00127,60,Tier-2,Business owner,42.0,18.0,None,Cold-call,47,4,Positive
+L00128,33,Tier-2,Self-employed,31.4,18.6,AIF,Cold-call,48,6,Neutral
+L00129,39,Tier-1,Retired,28.0,3.6,"Direct Equity, FD",Digital,49,4,None-yet
+L00130,36,Tier-1,Salaried,44.8,14.6,AIF,Existing-client-family,121,6,Objection
+L00131,41,Tier-3,Retired,30.7,13.2,AIF,Cold-call,5,3,Neutral
+L00132,31,Tier-2,Salaried,35.5,8.4,Insurance,Cold-call,3,3,Objection
+L00133,51,Tier-1,Salaried,38.7,11.0,Direct Equity,Digital,3,1,Objection
+L00134,43,Tier-3,Self-employed,22.8,10.9,"Insurance, Direct Equity, AIF",Digital,32,3,Positive
+L00135,30,Tier-1,Salaried,53.1,9.3,None,Referral,5,8,Neutral
+L00136,35,Tier-3,Salaried,281.5,59.1,Direct Equity,Digital,33,2,Neutral
+L00137,48,Tier-1,Salaried,10.5,7.2,Insurance,Referral,36,7,Objection
+L00138,53,Tier-2,Salaried,45.9,17.2,"PMS, AIF",Cold-call,5,3,Neutral
+L00139,65,Tier-1,Business owner,21.5,1.0,"Direct Equity, Insurance",Event,72,3,Neutral
+L00140,70,Tier-1,Salaried,54.8,14.8,Direct Equity,Digital,19,5,Objection
+L00141,49,Tier-3,Business owner,37.8,6.4,PMS,Digital,50,9,None-yet
+L00142,35,Tier-1,Business owner,62.4,24.7,"Direct Equity, Insurance",Cold-call,51,5,Neutral
+L00143,25,Tier-1,Salaried,83.3,4.7,None,Referral,8,7,Objection
+L00144,48,Tier-1,Salaried,41.9,12.8,Insurance,Existing-client-family,100,1,Neutral
+L00145,37,Tier-2,Retired,80.8,13.0,"MF, PMS",Digital,14,5,No-show
+L00146,41,Tier-2,Business owner,10.0,1.0,None,Referral,144,4,No-show
+L00147,39,Tier-3,Self-employed,111.4,39.5,None,Referral,4,3,No-show
+L00148,44,Tier-1,Business owner,47.6,15.1,None,Existing-client-family,1,3,Neutral
+L00149,56,Tier-1,Salaried,77.8,5.3,None,Referral,9,7,Neutral
+L00150,47,Tier-1,Salaried,15.6,7.6,"AIF, FD",Cold-call,27,5,None-yet
+L00151,43,Tier-2,Business owner,20.5,6.6,None,Referral,33,4,Neutral
+L00152,35,Tier-3,Salaried,40.5,16.2,PMS,Referral,47,5,None-yet
+L00153,28,Tier-2,Business owner,36.2,21.0,None,Event,40,4,Neutral
+L00154,40,Tier-2,Self-employed,44.6,11.1,None,Referral,17,2,Neutral
+L00155,44,Tier-1,Business owner,78.2,45.3,AIF,Referral,55,3,Neutral
+L00156,63,Tier-3,Self-employed,10.6,1.0,None,Digital,3,1,Neutral
+L00157,46,Tier-1,Salaried,72.4,5.9,"PMS, MF",Event,1,3,None-yet
+L00158,55,Tier-1,Salaried,36.8,15.7,"PMS, Insurance",Digital,6,4,Positive
+L00159,40,Tier-1,Salaried,31.7,9.5,None,Referral,6,7,Objection
+L00160,33,Tier-1,Business owner,13.1,1.0,"AIF, Direct Equity, FD",Existing-client-family,22,8,Objection
+L00161,35,Tier-1,Salaried,52.0,8.3,None,Cold-call,41,2,None-yet
+L00162,38,Tier-1,Salaried,10.0,7.3,MF,Event,170,5,Objection
+L00163,66,Tier-1,Salaried,57.6,13.0,"PMS, Direct Equity",Event,12,1,None-yet
+L00164,37,Tier-2,Salaried,12.9,2.7,FD,Cold-call,41,1,None-yet
+L00165,53,Tier-1,Business owner,38.0,14.6,None,Digital,7,5,Neutral
+L00166,36,Tier-1,Salaried,33.7,10.5,None,Digital,2,6,None-yet
+L00167,54,Tier-3,Other,83.0,81.4,None,Cold-call,1,2,None-yet
+L00168,49,Tier-2,Salaried,32.3,9.9,Direct Equity,Cold-call,58,4,Neutral
+L00169,43,Tier-2,Business owner,22.5,5.1,Insurance,Existing-client-family,177,3,Objection
+L00170,45,Tier-1,Salaried,25.7,10.0,None,Cold-call,122,5,Neutral
+L00171,38,Tier-3,Salaried,89.2,30.3,PMS,Digital,26,7,Objection
+L00172,49,Tier-1,Retired,53.3,3.8,Insurance,Digital,2,2,Positive
+L00173,40,Tier-1,Other,27.9,11.2,FD,Cold-call,8,3,No-show
+L00174,33,Tier-3,Retired,31.0,8.4,PMS,Digital,71,5,Neutral
+L00175,32,Tier-2,Salaried,12.2,3.9,Direct Equity,Event,11,1,Objection
+L00176,47,Tier-2,Salaried,48.0,18.4,None,Cold-call,39,1,Positive
+L00177,61,Tier-2,Business owner,10.7,1.0,AIF,Referral,16,6,Objection
+L00178,47,Tier-2,Salaried,61.9,9.0,AIF,Cold-call,32,4,Neutral
+L00179,44,Tier-1,Business owner,40.0,18.0,"PMS, MF",Cold-call,73,6,Objection
+L00180,48,Tier-1,Self-employed,194.6,17.9,None,Existing-client-family,26,2,Neutral
+L00181,58,Tier-1,Self-employed,16.9,15.1,Direct Equity,Digital,180,4,Positive
+L00182,47,Tier-1,Business owner,34.1,9.1,"FD, PMS, Direct Equity",Cold-call,21,1,Neutral
+L00183,41,Tier-3,Business owner,128.9,16.9,Insurance,Digital,20,5,None-yet
+L00184,56,Tier-1,Salaried,84.3,40.2,PMS,Digital,30,6,Neutral
+L00185,49,Tier-2,Salaried,22.5,9.7,MF,Referral,3,1,Objection
+L00186,60,Tier-2,Self-employed,42.8,10.4,PMS,Event,73,8,Positive
+L00187,47,Tier-2,Self-employed,36.6,8.6,"Insurance, FD",Existing-client-family,21,3,No-show
+L00188,33,Tier-1,Salaried,44.6,12.9,None,Digital,54,3,Neutral
+L00189,31,Tier-1,Salaried,22.4,1.0,None,Cold-call,35,3,Neutral
+L00190,62,Tier-3,Business owner,34.4,23.1,"AIF, MF",Referral,40,1,Neutral
+L00191,62,Tier-2,Business owner,12.0,9.5,AIF,Cold-call,44,1,Positive
+L00192,43,Tier-2,Self-employed,40.2,20.6,None,Digital,13,5,Neutral
+L00193,41,Tier-3,Salaried,50.1,22.3,Direct Equity,Cold-call,72,5,Neutral
+L00194,60,Tier-2,Salaried,31.2,13.6,None,Referral,0,1,Objection
+L00195,34,Tier-1,Self-employed,11.8,1.0,None,Cold-call,3,6,None-yet
+L00196,36,Tier-2,Salaried,73.1,8.5,MF,Digital,60,6,Neutral
+L00197,51,Tier-1,Self-employed,47.2,19.1,"Direct Equity, FD, PMS",Cold-call,123,2,None-yet
+L00198,41,Tier-2,Business owner,22.0,1.9,"MF, FD",Cold-call,13,4,Neutral
+L00199,45,Tier-3,Salaried,30.1,9.0,Direct Equity,Referral,7,6,Positive
+L00200,43,Tier-2,Salaried,12.8,6.0,Insurance,Digital,30,2,Neutral
+L00201,48,Tier-1,Salaried,17.9,8.1,None,Event,7,5,Neutral
+L00202,59,Tier-1,Retired,25.1,7.8,"Insurance, MF",Cold-call,1,3,Neutral
+L00203,46,Tier-3,Self-employed,86.5,16.4,None,Referral,30,3,None-yet
+L00204,51,Tier-1,Salaried,23.4,6.0,None,Digital,5,6,Objection
+L00205,25,Tier-1,Retired,57.3,39.2,PMS,Digital,42,3,Objection
+L00206,45,Tier-1,Self-employed,25.1,14.2,None,Cold-call,21,2,Neutral
+L00207,37,Tier-1,Self-employed,43.5,5.9,"Insurance, Direct Equity",Cold-call,119,3,Neutral
+L00208,33,Tier-1,Retired,33.1,5.8,"Direct Equity, PMS",Referral,37,4,Objection
+L00209,36,Tier-2,Salaried,67.4,20.2,None,Cold-call,55,5,Positive
+L00210,42,Tier-1,Salaried,25.2,13.6,Insurance,Cold-call,28,6,Positive
+L00211,54,Tier-1,Self-employed,12.2,1.0,"FD, Insurance",Event,47,1,Neutral
+L00212,32,Tier-1,Salaried,13.9,4.5,"AIF, MF",Referral,75,6,Positive
+L00213,45,Tier-1,Business owner,25.2,5.1,Insurance,Digital,30,2,Objection
+L00214,40,Tier-1,Salaried,15.3,9.6,Direct Equity,Digital,30,4,Positive
+L00215,42,Tier-2,Salaried,48.8,23.5,"Insurance, MF",Referral,8,7,Positive
+L00216,55,Tier-1,Salaried,26.4,4.5,FD,Digital,1,6,None-yet
+L00217,50,Tier-1,Salaried,192.9,64.4,Insurance,Referral,14,2,None-yet
+L00218,58,Tier-1,Salaried,10.8,4.1,"Insurance, PMS",Referral,33,2,Neutral
+L00219,43,Tier-1,Salaried,42.2,21.5,"PMS, Direct Equity, AIF",Cold-call,65,4,Neutral
+L00220,38,Tier-1,Retired,16.6,2.3,None,Digital,30,2,No-show
+L00221,43,Tier-1,Salaried,25.9,1.8,Direct Equity,Cold-call,126,4,Positive
+L00222,47,Tier-3,Salaried,40.4,21.4,"PMS, MF",Referral,44,6,Neutral
+L00223,47,Tier-1,Salaried,10.0,2.9,MF,Cold-call,79,2,Positive
+L00224,34,Tier-2,Salaried,43.2,8.0,None,Digital,180,0,Neutral
+L00225,46,Tier-1,Salaried,138.7,48.1,None,Event,106,6,None-yet
+L00226,47,Tier-1,Self-employed,26.6,12.2,None,Event,134,5,No-show
+L00227,70,Tier-1,Salaried,43.9,12.1,MF,Digital,24,3,None-yet
+L00228,64,Tier-2,Retired,75.0,25.6,None,Cold-call,8,6,No-show
+L00229,36,Tier-2,Retired,32.6,11.7,PMS,Referral,19,0,Objection
+L00230,42,Tier-1,Salaried,24.4,2.4,FD,Cold-call,4,3,No-show
+L00231,30,Tier-1,Salaried,10.0,6.5,None,Referral,6,3,Objection
+L00232,39,Tier-1,Salaried,57.3,14.7,"MF, Direct Equity",Digital,1,5,Neutral
+L00233,48,Tier-1,Self-employed,33.8,7.0,MF,Referral,0,7,Neutral
+L00234,57,Tier-2,Salaried,18.0,7.0,None,Event,104,10,Objection
+L00235,38,Tier-1,Retired,40.0,16.2,"AIF, PMS",Digital,157,7,Neutral
+L00236,38,Tier-1,Business owner,24.3,11.6,"Direct Equity, PMS, Insurance",Cold-call,50,6,Neutral
+L00237,25,Tier-3,Business owner,25.3,5.6,None,Digital,39,2,Positive
+L00238,43,Tier-1,Self-employed,55.9,57.1,None,Digital,30,4,Objection
+L00239,34,Tier-1,Other,14.3,8.4,MF,Referral,164,4,Neutral
+L00240,40,Tier-2,Salaried,76.2,46.6,None,Existing-client-family,17,4,Neutral
+L00241,36,Tier-1,Salaried,13.8,6.6,"MF, AIF, PMS",Event,68,5,Neutral
+L00242,44,Tier-1,Salaried,23.0,11.4,"AIF, FD",Referral,12,4,Positive
+L00243,27,Tier-1,Retired,140.6,78.2,PMS,Cold-call,13,2,None-yet
+L00244,30,Tier-3,Self-employed,80.6,34.3,None,Digital,55,5,Neutral
+L00245,66,Tier-1,Business owner,39.2,6.5,PMS,Referral,65,6,Neutral
+L00246,32,Tier-1,Salaried,18.9,5.0,Insurance,Digital,6,6,Positive
+L00247,34,Tier-1,Other,25.3,14.0,None,Referral,48,9,None-yet
+L00248,63,Tier-1,Self-employed,38.5,11.9,Insurance,Referral,45,5,Objection
+L00249,70,Tier-2,Self-employed,37.6,8.7,"Insurance, MF",Cold-call,10,3,Neutral
+L00250,33,Tier-1,Other,34.3,12.3,MF,Digital,115,3,Neutral
+L00251,41,Tier-2,Salaried,35.8,2.4,"Insurance, Direct Equity",Event,31,4,No-show
+L00252,48,Tier-2,Salaried,31.5,11.9,FD,Cold-call,19,3,None-yet
+L00253,62,Tier-2,Self-employed,13.3,2.5,None,Event,19,5,Neutral
+L00254,35,Tier-1,Salaried,25.5,1.0,MF,Cold-call,19,1,Positive
+L00255,43,Tier-3,Salaried,69.4,14.4,"FD, PMS",Event,2,6,Positive
+L00256,53,Tier-2,Salaried,14.0,1.4,None,Digital,63,3,Positive
+L00257,49,Tier-1,Salaried,32.1,13.8,FD,Digital,133,3,No-show
+L00258,41,Tier-2,Retired,20.6,6.0,AIF,Digital,97,4,None-yet
+L00259,44,Tier-3,Self-employed,39.6,4.6,Insurance,Existing-client-family,21,3,None-yet
+L00260,31,Tier-1,Salaried,27.9,22.4,"FD, Insurance",Referral,57,8,No-show
+L00261,43,Tier-3,Salaried,102.9,51.6,PMS,Cold-call,18,7,Positive
+L00262,42,Tier-1,Salaried,52.2,15.0,Insurance,Event,7,1,None-yet
+L00263,47,Tier-2,Self-employed,14.6,5.7,AIF,Digital,21,4,Neutral
+L00264,39,Tier-3,Retired,58.5,14.2,PMS,Event,21,1,Neutral
+L00265,50,Tier-1,Retired,21.3,5.9,None,Digital,9,4,Objection
+L00266,55,Tier-2,Salaried,24.4,7.0,None,Referral,23,1,Positive
+L00267,47,Tier-1,Salaried,45.6,29.0,"MF, Direct Equity",Cold-call,27,5,None-yet
+L00268,49,Tier-2,Self-employed,25.9,13.9,Insurance,Digital,13,4,None-yet
+L00269,46,Tier-2,Self-employed,68.4,21.0,None,Referral,2,7,No-show
+L00270,45,Tier-1,Self-employed,21.3,6.4,"Insurance, PMS",Referral,11,4,No-show
+L00271,38,Tier-1,Business owner,23.7,7.1,"MF, FD",Referral,92,3,Neutral
+L00272,48,Tier-1,Self-employed,23.1,6.0,None,Event,37,5,Positive
+L00273,44,Tier-1,Salaried,24.6,13.4,None,Event,17,2,No-show
+L00274,66,Tier-1,Salaried,79.0,5.3,AIF,Digital,13,3,Objection
+L00275,61,Tier-1,Salaried,56.8,8.4,"MF, AIF, PMS",Referral,46,7,None-yet
+L00276,49,Tier-1,Salaried,121.1,69.7,None,Digital,9,3,Positive
+L00277,37,Tier-1,Salaried,179.0,103.9,"Direct Equity, Insurance, PMS",Event,11,3,Neutral
+L00278,34,Tier-2,Business owner,17.8,5.9,None,Cold-call,79,5,Neutral
+L00279,57,Tier-2,Salaried,38.4,8.6,"Insurance, AIF",Digital,26,5,Objection
+L00280,48,Tier-2,Salaried,16.1,2.1,FD,Referral,8,2,No-show
+L00281,50,Tier-1,Self-employed,21.2,4.0,Insurance,Existing-client-family,1,3,None-yet
+L00282,28,Tier-3,Business owner,23.5,1.0,None,Event,151,7,Neutral
+L00283,54,Tier-2,Salaried,17.5,7.3,None,Referral,0,4,Neutral
+L00284,50,Tier-1,Business owner,17.5,11.6,None,Event,33,4,Positive
+L00285,34,Tier-1,Retired,33.1,10.5,None,Referral,46,3,Neutral
+L00286,40,Tier-2,Self-employed,15.6,5.0,None,Referral,35,1,Neutral
+L00287,48,Tier-1,Business owner,66.0,32.8,"Direct Equity, PMS, AIF",Event,21,2,Objection
+L00288,46,Tier-2,Salaried,19.3,5.8,None,Digital,83,5,Neutral
+L00289,42,Tier-3,Retired,261.6,77.8,AIF,Digital,92,2,Neutral
+L00290,44,Tier-1,Salaried,26.7,18.7,None,Existing-client-family,22,3,Objection
+L00291,42,Tier-1,Retired,38.5,18.1,None,Event,31,4,None-yet
+L00292,47,Tier-3,Self-employed,14.8,2.1,Direct Equity,Referral,31,3,Neutral
+L00293,60,Tier-2,Salaried,120.8,48.0,"PMS, AIF, Insurance",Cold-call,48,7,Neutral
+L00294,25,Tier-1,Salaried,80.1,26.9,None,Event,9,5,No-show
+L00295,43,Tier-3,Business owner,45.1,14.5,None,Cold-call,3,5,No-show
+L00296,47,Tier-3,Self-employed,14.3,10.0,"PMS, FD",Existing-client-family,23,7,None-yet
+L00297,48,Tier-2,Salaried,42.4,2.7,Insurance,Cold-call,5,2,Neutral
+L00298,41,Tier-2,Business owner,16.7,8.4,None,Referral,27,3,Objection
+L00299,27,Tier-1,Retired,101.9,31.1,"MF, AIF, Insurance",Referral,68,3,None-yet
+L00300,48,Tier-1,Self-employed,64.5,5.5,"FD, PMS, Direct Equity",Event,26,3,Neutral
+L00301,62,Tier-2,Self-employed,39.1,4.8,"AIF, FD",Existing-client-family,32,5,Neutral
+L00302,30,Tier-1,Salaried,10.0,1.0,"Insurance, MF, PMS",Referral,38,6,None-yet
+L00303,54,Tier-2,Business owner,18.4,1.0,Insurance,Referral,57,4,Positive
+L00304,42,Tier-2,Salaried,59.2,21.8,"FD, PMS",Event,36,4,No-show
+L00305,44,Tier-1,Retired,85.5,33.9,None,Referral,23,4,None-yet
+L00306,34,Tier-2,Salaried,79.6,19.0,None,Referral,22,2,Positive
+L00307,42,Tier-1,Self-employed,12.0,2.2,FD,Event,9,1,No-show
+L00308,58,Tier-3,Salaried,45.2,4.3,FD,Event,23,11,Neutral
+L00309,51,Tier-1,Salaried,74.5,34.1,None,Event,60,8,None-yet
+L00310,62,Tier-2,Business owner,11.5,6.7,None,Cold-call,21,3,None-yet
+L00311,57,Tier-2,Self-employed,36.4,7.1,FD,Digital,18,4,None-yet
+L00312,49,Tier-1,Self-employed,44.3,11.9,None,Existing-client-family,34,10,Positive
+L00313,62,Tier-2,Other,29.7,12.7,Direct Equity,Digital,7,5,No-show
+L00314,49,Tier-2,Other,10.0,2.1,"Direct Equity, PMS",Digital,4,4,None-yet
+L00315,53,Tier-2,Retired,29.1,5.6,"MF, FD, Insurance",Event,53,7,Objection
+L00316,42,Tier-2,Salaried,29.1,9.5,None,Cold-call,14,0,Objection
+L00317,46,Tier-3,Self-employed,33.0,3.8,FD,Event,12,3,Positive
+L00318,38,Tier-1,Retired,24.7,9.7,None,Referral,83,6,None-yet
+L00319,55,Tier-2,Salaried,26.8,6.8,Insurance,Existing-client-family,98,10,Positive
+L00320,33,Tier-1,Salaried,35.6,9.0,FD,Cold-call,28,5,Neutral
+L00321,53,Tier-2,Business owner,49.9,28.2,None,Cold-call,40,3,None-yet
+L00322,43,Tier-2,Self-employed,29.6,12.2,Insurance,Existing-client-family,137,4,None-yet
+L00323,57,Tier-1,Self-employed,27.5,8.2,None,Digital,21,4,None-yet
+L00324,53,Tier-1,Other,39.0,14.2,"PMS, FD, AIF",Cold-call,80,5,Neutral
+L00325,63,Tier-3,Self-employed,10.0,1.8,None,Cold-call,53,4,Positive
+L00326,52,Tier-1,Salaried,51.1,21.7,PMS,Event,121,2,Neutral
+L00327,29,Tier-2,Salaried,36.6,25.6,"FD, Insurance",Event,10,1,Positive
+L00328,44,Tier-1,Salaried,37.6,10.5,None,Cold-call,66,3,None-yet
+L00329,33,Tier-3,Salaried,71.7,29.5,None,Referral,7,4,Objection
+L00330,40,Tier-1,Business owner,10.0,7.8,"MF, FD",Referral,66,3,Neutral
+L00331,60,Tier-1,Business owner,10.0,2.9,Insurance,Existing-client-family,16,5,Positive
+L00332,51,Tier-3,Salaried,44.3,22.6,"Direct Equity, FD, PMS",Existing-client-family,2,5,Neutral
+L00333,38,Tier-3,Salaried,36.4,12.2,"Insurance, AIF",Existing-client-family,71,5,None-yet
+L00334,35,Tier-1,Retired,41.2,23.7,None,Referral,2,6,No-show
+L00335,45,Tier-1,Salaried,26.5,11.4,Direct Equity,Digital,75,6,Positive
+L00336,33,Tier-2,Self-employed,58.3,23.8,None,Event,9,3,Positive
+L00337,38,Tier-3,Self-employed,70.3,27.2,Insurance,Event,33,4,Neutral
+L00338,48,Tier-1,Business owner,51.4,19.2,None,Referral,1,2,Positive
+L00339,57,Tier-2,Salaried,30.5,8.0,None,Cold-call,3,7,None-yet
+L00340,51,Tier-2,Business owner,10.0,1.0,None,Referral,12,3,Objection
+L00341,25,Tier-2,Salaried,62.7,34.4,PMS,Digital,18,3,Positive
+L00342,48,Tier-2,Self-employed,86.1,38.2,MF,Referral,8,7,No-show
+L00343,46,Tier-2,Salaried,57.5,32.0,"Direct Equity, PMS, AIF",Referral,5,4,Neutral
+L00344,49,Tier-1,Self-employed,19.8,2.2,Insurance,Referral,6,4,Neutral
+L00345,61,Tier-3,Self-employed,58.7,10.2,"Direct Equity, Insurance",Existing-client-family,27,7,Objection
+L00346,25,Tier-3,Salaried,66.8,18.6,"PMS, MF",Cold-call,2,5,Positive
+L00347,39,Tier-2,Salaried,109.0,31.9,"PMS, Direct Equity",Existing-client-family,97,2,Neutral
+L00348,51,Tier-1,Salaried,19.8,8.3,"FD, MF",Digital,99,4,None-yet
+L00349,29,Tier-1,Salaried,31.2,8.0,None,Digital,3,7,None-yet
+L00350,60,Tier-2,Salaried,61.7,8.4,None,Digital,50,1,Neutral
+L00351,49,Tier-1,Retired,38.1,21.0,None,Cold-call,46,6,Objection
+L00352,53,Tier-3,Salaried,16.7,11.1,PMS,Digital,32,4,Neutral
+L00353,39,Tier-1,Business owner,48.9,9.6,AIF,Cold-call,11,5,Objection
+L00354,53,Tier-2,Other,54.9,29.4,Insurance,Event,33,5,Neutral
+L00355,56,Tier-3,Salaried,38.9,17.8,None,Event,77,5,Objection
+L00356,47,Tier-1,Business owner,42.7,3.6,AIF,Referral,14,1,Positive
+L00357,47,Tier-1,Retired,30.5,4.6,"PMS, MF",Digital,63,2,None-yet
+L00358,48,Tier-2,Self-employed,103.0,21.6,AIF,Referral,25,4,None-yet
+L00359,36,Tier-2,Salaried,19.5,10.4,Direct Equity,Referral,89,5,Neutral
+L00360,44,Tier-1,Salaried,24.3,8.9,PMS,Cold-call,38,8,No-show
+L00361,43,Tier-2,Salaried,36.9,7.8,None,Digital,70,4,Positive
+L00362,49,Tier-3,Self-employed,67.7,12.4,FD,Cold-call,121,6,No-show
+L00363,55,Tier-1,Other,12.8,5.5,"MF, Direct Equity",Referral,23,2,Neutral
+L00364,34,Tier-1,Other,14.6,1.0,None,Existing-client-family,45,6,Positive
+L00365,44,Tier-1,Salaried,10.0,4.5,"AIF, PMS",Existing-client-family,142,0,Objection
+L00366,60,Tier-1,Business owner,37.4,20.1,None,Digital,180,4,Neutral
+L00367,38,Tier-1,Salaried,16.7,8.6,None,Event,33,4,Objection
+L00368,37,Tier-1,Retired,28.0,12.6,None,Referral,115,4,Objection
+L00369,47,Tier-2,Salaried,58.1,21.6,AIF,Cold-call,18,3,Positive
+L00370,53,Tier-1,Retired,23.4,16.1,None,Event,21,5,Positive
+L00371,45,Tier-3,Business owner,43.0,12.3,None,Event,111,1,Objection
+L00372,58,Tier-1,Salaried,29.7,24.7,"FD, MF, Direct Equity",Event,40,4,Objection
+L00373,54,Tier-1,Salaried,58.6,41.3,Direct Equity,Digital,72,6,Positive
+L00374,53,Tier-2,Business owner,51.0,1.0,"Insurance, Direct Equity, MF",Event,19,4,Neutral
+L00375,51,Tier-3,Salaried,22.5,1.0,PMS,Cold-call,66,4,Objection
+L00376,68,Tier-1,Self-employed,32.5,14.5,None,Referral,77,4,Objection
+L00377,43,Tier-1,Retired,76.0,38.8,None,Referral,20,1,None-yet
+L00378,25,Tier-1,Self-employed,48.2,7.4,None,Event,29,7,Neutral
+L00379,61,Tier-2,Salaried,13.8,7.1,None,Cold-call,16,4,Objection
+L00380,40,Tier-1,Salaried,57.9,14.1,AIF,Digital,88,5,Objection
+L00381,46,Tier-1,Salaried,17.1,3.2,None,Existing-client-family,48,3,Neutral
+L00382,58,Tier-1,Other,98.4,33.9,None,Cold-call,7,6,Positive
+L00383,29,Tier-1,Salaried,75.0,11.4,FD,Digital,125,3,Positive
+L00384,32,Tier-3,Salaried,44.8,21.3,None,Digital,43,4,None-yet
+L00385,29,Tier-2,Salaried,40.9,10.7,None,Cold-call,20,5,Neutral
+L00386,37,Tier-1,Other,31.6,1.0,None,Event,40,6,Objection
+L00387,49,Tier-1,Salaried,58.8,1.0,None,Cold-call,10,9,Objection
+L00388,50,Tier-1,Retired,28.2,13.6,"AIF, MF",Digital,15,2,Neutral
+L00389,48,Tier-1,Business owner,43.2,15.6,PMS,Cold-call,79,5,None-yet
+L00390,31,Tier-2,Business owner,67.4,22.0,"AIF, Insurance",Cold-call,15,7,Objection
+L00391,25,Tier-3,Other,24.7,7.7,None,Event,158,1,Positive
+L00392,46,Tier-3,Business owner,23.8,6.6,None,Referral,11,2,No-show
+L00393,40,Tier-3,Retired,15.9,7.2,Insurance,Event,91,7,Objection
+L00394,50,Tier-3,Salaried,17.4,2.6,None,Digital,92,3,Neutral
+L00395,52,Tier-3,Business owner,10.2,8.0,None,Referral,52,5,No-show
+L00396,46,Tier-1,Self-employed,61.0,28.1,None,Cold-call,10,3,Objection
+L00397,53,Tier-1,Self-employed,129.8,41.6,None,Cold-call,19,10,Neutral
+L00398,47,Tier-1,Retired,99.3,39.7,Insurance,Digital,30,5,None-yet
+L00399,50,Tier-2,Other,11.7,3.1,MF,Event,62,1,Objection
+L00400,38,Tier-1,Business owner,60.8,44.7,None,Digital,163,5,Objection
+L00401,43,Tier-2,Self-employed,99.0,64.0,None,Referral,47,6,Positive
+L00402,47,Tier-2,Self-employed,26.6,6.2,"MF, AIF",Digital,49,7,Neutral
+L00403,53,Tier-2,Salaried,39.3,5.3,None,Digital,63,3,Neutral
+L00404,41,Tier-1,Salaried,10.0,1.0,None,Cold-call,25,0,Objection
+L00405,50,Tier-1,Salaried,44.1,18.6,"AIF, FD",Event,10,4,Objection
+L00406,42,Tier-1,Salaried,17.4,10.7,Direct Equity,Cold-call,96,5,No-show
+L00407,44,Tier-3,Salaried,42.1,9.6,FD,Referral,170,5,Neutral
+L00408,53,Tier-2,Business owner,12.3,2.2,None,Digital,71,3,No-show
+L00409,25,Tier-2,Salaried,53.5,9.7,AIF,Referral,14,7,None-yet
+L00410,32,Tier-1,Retired,75.0,8.1,AIF,Cold-call,42,2,No-show
+L00411,30,Tier-1,Self-employed,21.2,16.9,"Direct Equity, MF",Referral,48,3,No-show
+L00412,25,Tier-1,Salaried,16.5,4.1,None,Digital,23,3,None-yet
+L00413,38,Tier-2,Salaried,10.0,3.3,None,Event,46,0,Positive
+L00414,52,Tier-2,Salaried,30.4,26.3,"Direct Equity, MF",Cold-call,149,6,Objection
+L00415,42,Tier-1,Other,24.4,17.1,"PMS, Direct Equity, Insurance",Digital,29,6,None-yet
+L00416,47,Tier-3,Salaried,12.4,3.9,"AIF, Direct Equity",Digital,32,5,Objection
+L00417,56,Tier-1,Self-employed,50.3,13.9,FD,Cold-call,49,5,Neutral
+L00418,58,Tier-3,Retired,26.7,11.3,"Insurance, PMS",Digital,30,8,None-yet
+L00419,44,Tier-1,Other,17.2,11.1,"AIF, PMS, Direct Equity",Referral,79,3,Positive
+L00420,59,Tier-1,Salaried,24.8,5.4,Direct Equity,Event,23,2,Neutral
+L00421,46,Tier-2,Salaried,77.5,13.5,None,Digital,43,4,Positive
+L00422,37,Tier-1,Salaried,55.8,15.7,"MF, Insurance",Digital,66,2,Neutral
+L00423,39,Tier-1,Salaried,33.4,2.3,None,Referral,11,4,Neutral
+L00424,30,Tier-1,Salaried,56.5,22.1,FD,Digital,32,4,Neutral
+L00425,36,Tier-1,Self-employed,16.2,7.4,PMS,Digital,28,4,None-yet
+L00426,41,Tier-2,Retired,37.4,10.2,"PMS, FD",Digital,25,3,Neutral
+L00427,53,Tier-3,Self-employed,40.6,25.7,FD,Cold-call,22,3,Objection
+L00428,62,Tier-3,Self-employed,26.3,4.8,"Direct Equity, PMS, AIF",Digital,8,6,None-yet
+L00429,31,Tier-1,Salaried,49.6,22.8,MF,Event,53,3,None-yet
+L00430,49,Tier-2,Business owner,21.2,7.6,FD,Existing-client-family,5,6,Neutral
+L00431,35,Tier-1,Self-employed,52.3,14.0,None,Referral,95,3,Positive
+L00432,50,Tier-1,Retired,53.9,12.9,None,Referral,18,2,Objection
+L00433,44,Tier-1,Retired,10.0,1.6,FD,Event,16,2,None-yet
+L00434,27,Tier-3,Salaried,84.2,29.3,"Direct Equity, PMS, AIF",Existing-client-family,18,4,Objection
+L00435,54,Tier-3,Salaried,10.0,1.4,PMS,Event,108,5,Neutral
+L00436,39,Tier-2,Salaried,23.8,13.0,None,Referral,19,2,No-show
+L00437,40,Tier-2,Salaried,75.0,21.9,None,Digital,36,4,Objection
+L00438,34,Tier-1,Retired,29.3,5.9,FD,Referral,5,5,Objection
+L00439,38,Tier-2,Salaried,13.1,8.3,AIF,Event,82,3,None-yet
+L00440,49,Tier-2,Business owner,17.0,1.0,None,Cold-call,97,3,No-show
+L00441,43,Tier-1,Self-employed,75.1,13.6,"AIF, FD, MF",Digital,2,6,Objection
+L00442,48,Tier-1,Salaried,10.0,3.1,MF,Cold-call,16,4,Objection
+L00443,49,Tier-1,Salaried,80.7,43.4,"MF, PMS",Digital,8,2,Objection
+L00444,58,Tier-3,Business owner,35.2,9.6,None,Cold-call,171,1,Objection
+L00445,42,Tier-1,Business owner,15.9,7.2,MF,Referral,11,2,Neutral
+L00446,30,Tier-3,Salaried,24.3,7.1,"Insurance, MF, AIF",Cold-call,61,2,No-show
+L00447,56,Tier-1,Salaried,18.0,9.0,"PMS, Insurance",Cold-call,71,2,Objection
+L00448,42,Tier-2,Business owner,67.1,20.5,None,Cold-call,120,3,Neutral
+L00449,56,Tier-1,Salaried,61.1,7.6,PMS,Digital,21,1,Positive
+L00450,49,Tier-1,Retired,11.0,3.8,FD,Event,6,1,No-show
+L00451,44,Tier-1,Salaried,27.6,4.5,PMS,Cold-call,4,4,Objection
+L00452,48,Tier-1,Salaried,20.0,1.0,None,Referral,42,1,Neutral
+L00453,65,Tier-3,Self-employed,90.5,52.8,None,Referral,54,2,Neutral
+L00454,66,Tier-1,Self-employed,14.2,3.6,None,Cold-call,23,8,Neutral
+L00455,46,Tier-2,Self-employed,112.5,92.0,"FD, Direct Equity",Digital,45,3,None-yet
+L00456,47,Tier-1,Salaried,35.8,8.7,None,Referral,36,4,None-yet
+L00457,56,Tier-1,Other,16.2,5.5,None,Referral,26,2,Objection
+L00458,37,Tier-2,Self-employed,22.8,5.7,"FD, Insurance",Referral,51,5,Neutral
+L00459,48,Tier-1,Self-employed,20.9,12.7,None,Digital,6,7,No-show
+L00460,45,Tier-3,Salaried,15.0,5.1,"AIF, Direct Equity, FD",Cold-call,9,2,Objection
+L00461,48,Tier-2,Salaried,39.1,15.8,FD,Referral,55,3,None-yet
+L00462,37,Tier-2,Self-employed,15.5,2.1,"FD, Direct Equity, Insurance",Cold-call,180,6,Positive
+L00463,29,Tier-1,Salaried,10.0,2.3,PMS,Digital,47,1,Positive
+L00464,25,Tier-1,Self-employed,28.1,13.0,FD,Digital,26,8,Objection
+L00465,34,Tier-3,Salaried,10.4,4.9,None,Referral,66,4,Neutral
+L00466,40,Tier-1,Other,21.6,9.7,None,Event,180,7,Objection
+L00467,42,Tier-1,Self-employed,19.4,11.0,"FD, PMS, AIF",Existing-client-family,18,5,No-show
+L00468,64,Tier-1,Retired,19.9,9.2,"AIF, MF",Digital,18,3,Positive
+L00469,56,Tier-2,Self-employed,148.5,56.4,None,Referral,0,3,Neutral
+L00470,35,Tier-2,Salaried,38.1,4.5,None,Digital,21,13,Objection
+L00471,48,Tier-2,Business owner,43.5,16.9,"Direct Equity, Insurance, MF",Referral,5,7,None-yet
+L00472,41,Tier-2,Self-employed,10.6,3.9,Insurance,Event,107,3,Neutral
+L00473,42,Tier-1,Business owner,23.2,7.2,None,Referral,138,2,Neutral
+L00474,47,Tier-3,Salaried,42.6,8.9,"MF, PMS",Existing-client-family,7,4,Objection
+L00475,51,Tier-1,Self-employed,17.9,11.5,None,Cold-call,180,2,Neutral
+L00476,42,Tier-2,Retired,69.1,23.2,FD,Digital,33,7,No-show
+L00477,56,Tier-1,Self-employed,15.8,2.5,"PMS, FD",Event,1,3,Objection
+L00478,34,Tier-3,Salaried,30.0,8.5,"Insurance, PMS",Referral,123,4,Neutral
+L00479,45,Tier-1,Business owner,24.3,7.8,None,Event,22,3,No-show
+L00480,70,Tier-1,Business owner,41.1,9.9,PMS,Referral,82,2,Objection
+L00481,47,Tier-1,Other,23.4,21.7,Direct Equity,Event,21,4,Positive
+L00482,59,Tier-1,Salaried,30.3,9.0,FD,Digital,12,1,Objection
+L00483,46,Tier-1,Salaried,31.0,16.9,Direct Equity,Referral,38,4,None-yet
+L00484,51,Tier-2,Business owner,21.9,9.2,Insurance,Event,8,3,No-show
+L00485,44,Tier-1,Self-employed,51.4,5.8,None,Referral,66,2,Neutral
+L00486,43,Tier-3,Business owner,43.2,15.3,None,Referral,79,2,No-show
+L00487,37,Tier-1,Self-employed,34.4,11.0,AIF,Event,11,5,Neutral
+L00488,49,Tier-2,Salaried,27.1,15.9,None,Digital,62,3,Objection
+L00489,36,Tier-1,Business owner,63.9,16.6,PMS,Event,55,5,Objection
+L00490,52,Tier-2,Salaried,31.0,18.2,PMS,Cold-call,144,4,Neutral
+L00491,56,Tier-2,Salaried,29.5,6.3,None,Cold-call,5,4,Neutral
+L00492,49,Tier-1,Self-employed,39.4,16.3,AIF,Digital,9,6,None-yet
+L00493,42,Tier-3,Business owner,120.0,16.4,FD,Referral,21,6,Neutral
+L00494,50,Tier-1,Retired,14.3,6.8,None,Existing-client-family,10,5,None-yet
+L00495,42,Tier-1,Salaried,62.7,12.6,None,Referral,24,1,Objection
+L00496,54,Tier-2,Salaried,10.0,1.0,"PMS, FD",Digital,4,3,Objection
+L00497,27,Tier-2,Other,42.6,11.0,None,Digital,68,4,Positive
+L00498,42,Tier-1,Salaried,110.2,43.3,None,Digital,54,3,Neutral
+L00499,25,Tier-1,Salaried,51.5,18.4,"PMS, Insurance",Cold-call,29,6,Positive
+L00500,30,Tier-3,Salaried,41.2,2.9,None,Event,128,0,Objection
