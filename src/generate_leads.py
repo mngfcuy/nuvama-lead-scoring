@@ -8,8 +8,15 @@ Usage: python generate_leads.py
 Output: data/leads_v1.csv
 """
 
+import os
 import numpy as np
 import pandas as pd
+
+# Resolve paths relative to this script's location, not the current working
+# directory -- so this works whether you run it from the repo root or from
+# inside src/.
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(SCRIPT_DIR, "..", "data")
 
 # Fixed seed so the dataset is reproducible every time we run this.
 SEED = 42
@@ -73,10 +80,8 @@ def generate_surplus(income):
     independent random variation.
     """
     n = len(income)
-    # fraction of income that becomes "investable surplus" varies person to person
-    savings_fraction = rng.beta(a=2, b=5, size=n) * 1.2  # mostly 0.05-0.5 range
+    savings_fraction = rng.beta(a=2, b=5, size=n) * 1.2
     surplus = income * savings_fraction
-    # small independent noise so it's not a perfectly deterministic function of income
     surplus += rng.normal(0, 2, size=n)
     surplus = np.clip(surplus, 1, None)
     return surplus.round(1)
@@ -91,7 +96,6 @@ def generate_existing_products(n):
     options = ["MF", "PMS", "AIF", "Insurance", "FD", "Direct Equity"]
     result = []
     for _ in range(n):
-        # decide how many products this lead already holds
         num_products = rng.choice([0, 1, 2, 3], p=[0.35, 0.35, 0.20, 0.10])
         if num_products == 0:
             result.append("None")
@@ -163,8 +167,9 @@ def main():
     print("\nIncome describe:\n", df["annual_income_lakhs"].describe())
     print("\nSurplus describe:\n", df["investable_surplus_lakhs"].describe())
 
-    df.to_csv("../data/leads_v1_structured.csv", index=False)
-    print("\nSaved to data/leads_v1_structured.csv")
+    out_path = os.path.join(DATA_DIR, "leads_v1_structured.csv")
+    df.to_csv(out_path, index=False)
+    print(f"\nSaved to {out_path}")
 
 
 if __name__ == "__main__":

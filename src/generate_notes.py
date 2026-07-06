@@ -13,15 +13,16 @@ the raw rm_notes text is a real feature. The tags exist so we can check:
 Run standalone for testing: python generate_notes.py
 """
 
+import os
 import numpy as np
 import pandas as pd
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(SCRIPT_DIR, "..", "data")
 
 SEED = 43  # different seed from structured fields, kept independent
 rng = np.random.default_rng(SEED)
 
-
-# ---- Template banks ----------------------------------------------------
-# Each list holds several phrasings so notes don't feel copy-pasted.
 
 POSITIVE_TEMPLATES = [
     "Client sounded genuinely interested and asked good follow-up questions.",
@@ -89,11 +90,6 @@ PRODUCT_TEMPLATES = {
 
 
 def sample_sentiment_from_outcome(last_meeting_outcome):
-    """
-    Sentiment isn't independent of last_meeting_outcome -- it's correlated,
-    but not perfectly (an RM's note can still diverge a little from the
-    literal 'Positive/Neutral/Objection' outcome tag).
-    """
     if last_meeting_outcome == "Positive":
         probs = {"Positive": 0.75, "Neutral": 0.20, "Negative": 0.05}
     elif last_meeting_outcome == "Objection":
@@ -102,7 +98,7 @@ def sample_sentiment_from_outcome(last_meeting_outcome):
         probs = {"Positive": 0.05, "Neutral": 0.35, "Negative": 0.60}
     elif last_meeting_outcome == "Neutral":
         probs = {"Positive": 0.25, "Neutral": 0.55, "Negative": 0.20}
-    else:  # None-yet
+    else:
         probs = {"Positive": 0.20, "Neutral": 0.60, "Negative": 0.20}
 
     options = list(probs.keys())
@@ -111,7 +107,6 @@ def sample_sentiment_from_outcome(last_meeting_outcome):
 
 
 def sample_urgency(touchpoints):
-    """More touchpoints loosely raises the odds of high urgency language."""
     if touchpoints >= 7:
         probs = [0.55, 0.30, 0.15]
     elif touchpoints >= 3:
@@ -122,7 +117,6 @@ def sample_urgency(touchpoints):
 
 
 def sample_product_interest(surplus):
-    """Higher surplus -> more plausible to be pitched PMS/AIF."""
     if surplus >= 30:
         probs = [0.15, 0.35, 0.25, 0.10, 0.15]
     elif surplus >= 10:
@@ -135,34 +129,24 @@ def sample_product_interest(surplus):
 def build_note(sentiment, urgency, objection, product_interest):
     sentences = []
 
-    # 1 sentence from sentiment bank
     bank = {"Positive": POSITIVE_TEMPLATES, "Neutral": NEUTRAL_TEMPLATES, "Negative": NEGATIVE_TEMPLATES}[sentiment]
     sentences.append(rng.choice(bank))
 
-    # 1 sentence on urgency (skip sometimes for variety)
     if urgency == "High":
         sentences.append(rng.choice(URGENCY_HIGH_ADDONS))
     elif urgency == "Low" and rng.random() < 0.7:
         sentences.append(rng.choice(URGENCY_LOW_ADDONS))
 
-    # objection sentence, only if sentiment is Negative
     if sentiment == "Negative" and objection != "None":
         sentences.append(rng.choice(OBJECTION_TEMPLATES[objection]))
 
-    # product interest sentence
     sentences.append(rng.choice(PRODUCT_TEMPLATES[product_interest]))
 
-    # shuffle order slightly, cap at 2-5 sentences per brief
     rng.shuffle(sentences)
     return " ".join(sentences)
 
 
 def generate_notes_for_leads(df):
-    """
-    df must already have: last_meeting_outcome, touchpoints_last_30d,
-    investable_surplus_lakhs columns.
-    Returns (rm_notes list, hidden_tags DataFrame)
-    """
     rm_notes = []
     hidden_rows = []
 
@@ -191,8 +175,8 @@ def generate_notes_for_leads(df):
 
 
 if __name__ == "__main__":
-    # standalone test using the structured file from Phase 2
-    df = pd.read_csv("../data/leads_v1_structured.csv")
+    structured_path = os.path.join(DATA_DIR, "leads_v1_structured.csv")
+    df = pd.read_csv(structured_path)
     notes, hidden_tags = generate_notes_for_leads(df)
     df["rm_notes"] = notes
 
@@ -200,5 +184,6 @@ if __name__ == "__main__":
     print("\nHidden tag distribution:")
     print(hidden_tags["note_sentiment"].value_counts())
 
-    hidden_tags.to_csv("../data/hidden_note_tags.csv", index=False)
-    print("\nSaved hidden tags to data/hidden_note_tags.csv (NOT a model feature -- validation only)")
+    out_path = os.path.join(DATA_DIR, "hidden_note_tags.csv")
+    hidden_tags.to_csv(out_path, index=False)
+    print(f"\nSaved hidden tags to {out_path} (NOT a model feature -- validation only)")
