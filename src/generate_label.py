@@ -138,3 +138,7 @@ if __name__ == "__main__":
     print(df.groupby("source")["converted_within_30d"].mean().round(3))
     print("\nConversion rate by note_sentiment:")
     print(df.groupby("note_sentiment")["converted_within_30d"].mean().round(3))
+    df["conversion_probability"] = probabilities
+    labels_out = df[["lead_id", "conversion_probability", "converted_within_30d"]]
+    labels_out.to_csv(os.path.join(DATA_DIR, "labels_v1.csv"), index=False)
+    print(f"\nSaved {len(labels_out)} labels to data/labels_v1.csv")

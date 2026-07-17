@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>RM Buddy</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #f4f5f7;
+    margin: 0;
+    padding: 24px;
+    color: #1a1a1a;
+  }
+  h1 { margin-bottom: 4px; }
+  .subtitle { color: #666; margin-bottom: 24px; }
+
+  .summary {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+  }
+  .summary-card {
+    background: white;
+    border-radius: 10px;
+    padding: 16px 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    min-width: 120px;
+  }
+  .summary-card .label { font-size: 12px; color: #888; text-transform: uppercase; letter-spacing: 0.03em; }
+  .summary-card .value { font-size: 24px; font-weight: 600; margin-top: 4px; }
+
+  .controls {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+  .controls select, .controls input {
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  th, td {
+    padding: 10px 14px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+  }
+  th {
+    background: #fafafa;
+    font-weight: 600;
+    color: #444;
+    position: sticky;
+    top: 0;
+  }
+  tr:hover { background: #fafbfc; }
+
+  .tier {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+  }
+  .tier-high { background: #fde2e2; color: #c0392b; }
+  .tier-medium { background: #fdf1d6; color: #b8860b; }
+  .tier-low { background: #e4f3e8; color: #2e7d32; }
+
+  .prob-bar-bg {
+    background: #eee;
+    border-radius: 4px;
+    height: 8px;
+    width: 80px;
+    overflow: hidden;
+  }
+  .prob-bar-fill {
+    background: #4a90d9;
+    height: 100%;
+  }
+
+  .loading { color: #888; padding: 40px; text-align: center; }
+</style>
+</head>
+<body>
+
+<h1>RM Buddy</h1>
+<div class="subtitle">Lead prioritization &amp; next-best-action dashboard</div>
+
+<div class="summary" id="summary"></div>
+
+<div class="controls">
+  <select id="tierFilter">
+    <option value="">All tiers</option>
+    <option value="High">High</option>
+    <option value="Medium">Medium</option>
+    <option value="Low">Low</option>
+  </select>
+  <input type="text" id="searchBox" placeholder="Search lead ID...">
+</div>
+
+<div id="tableContainer"><div class="loading">Loading leads...</div></div>
+
+<script>
+async function loadSummary() {
+  const res = await fetch('/api/summary');
+  const data = await res.json();
+  const summaryEl = document.getElementById('summary');
+  summaryEl.innerHTML = `
+    <div class="summary-card"><div class="label">Total Leads</div><div class="value">${data.total_leads}</div></div>
+    <div class="summary-card"><div class="label">High Priority</div><div class="value">${data.tier_counts.High || 0}</div></div>
+    <div class="summary-card"><div class="label">Medium Priority</div><div class="value">${data.tier_counts.Medium || 0}</div></div>
+    <div class="summary-card"><div class="label">Low Priority</div><div class="value">${data.tier_counts.Low || 0}</div></div>
+    <div class="summary-card"><div class="label">Avg. Conv. Prob.</div><div class="value">${(data.avg_conversion_probability * 100).toFixed(1)}%</div></div>
+  `;
+}
+
+function tierClass(tier) {
+  if (tier === 'High') return 'tier-high';
+  if (tier === 'Medium') return 'tier-medium';
+  return 'tier-low';
+}
+
+async function loadLeads() {
+  const tier = document.getElementById('tierFilter').value;
+  const search = document.getElementById('searchBox').value;
+
+  const params = new URLSearchParams();
+  if (tier) params.append('tier', tier);
+  if (search) params.append('search', search);
+
+  const res = await fetch('/api/leads?' + params.toString());
+  const leads = await res.json();
+
+  const container = document.getElementById('tableContainer');
+  if (leads.length === 0) {
+    container.innerHTML = '<div class="loading">No leads match this filter.</div>';
+    return;
+  }
+
+  let rows = leads.map(l => `
+    <tr>
+      <td>${l.lead_id}</td>
+      <td><span class="tier ${tierClass(l.priority_tier)}">${l.priority_tier}</span></td>
+      <td>
+        <div class="prob-bar-bg"><div class="prob-bar-fill" style="width:${(l.conversion_probability_model * 100).toFixed(0)}%"></div></div>
+        ${(l.conversion_probability_model * 100).toFixed(1)}%
+      </td>
+      <td>${l.sentiment}</td>
+      <td>${l.urgency}</td>
+      <td>${l.objection}</td>
+      <td>${l.product_interest}</td>
+      <td>${l.recommended_action}</td>
+    </tr>
+  `).join('');
+
+  container.innerHTML = `
+    <table>
+      <thead>
+        <tr>
+          <th>Lead ID</th>
+          <th>Tier</th>
+          <th>Conv. Prob.</th>
+          <th>Sentiment</th>
+          <th>Urgency</th>
+          <th>Objection</th>
+          <th>Interest</th>
+          <th>Recommended Action</th>
+        </tr>
+      </thead>
+      <tbody>${rows}</tbody>
+    </table>
+  `;
+}
+
+document.getElementById('tierFilter').addEventListener('change', loadLeads);
+document.getElementById('searchBox').addEventListener('input', loadLeads);
+
+loadSummary();
+loadLeads();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,501 @@
+lead_id,conversion_probability_model,priority_tier,sentiment,urgency,objection,product_interest,recommended_action
+L00100,0.9929905790324867,High,Positive,High,None,Unclear,"Call today - high intent, ready to convert"
+L00338,0.990140390730166,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00331,0.9901221170541895,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00046,0.988527744439354,High,Positive,High,None,Unclear,"Call today - high intent, ready to convert"
+L00242,0.9865652725929837,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00212,0.9831296907769178,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00034,0.9817727228977019,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00266,0.9815869280408198,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00155,0.9759355513081073,High,Positive,High,None,Unclear,"Call today - high intent, ready to convert"
+L00312,0.9735439123501135,High,Positive,Medium,None,AIF,Call this week - strong conversion likelihood
+L00303,0.9713779991064353,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00218,0.9677726171232046,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00419,0.9668512537366827,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00401,0.9655690395688935,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00336,0.960279874440185,High,Positive,High,None,Unclear,"Call today - high intent, ready to convert"
+L00356,0.9598162637509284,High,Positive,Low,None,MF,Call this week - strong conversion likelihood
+L00071,0.9583573125512898,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00082,0.9578503176819342,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00199,0.9572280885073087,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00059,0.9563832336196927,High,Positive,High,None,AIF,"Call today - high intent, ready to convert"
+L00245,0.956102252130477,High,Positive,High,None,Unclear,"Call today - high intent, ready to convert"
+L00276,0.9549907705125927,High,Positive,High,None,Unclear,"Call today - high intent, ready to convert"
+L00246,0.9534095204899693,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00272,0.9511745175927321,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00327,0.9500137774671911,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00045,0.9461287409806177,High,Positive,High,None,PMS,"Call today - high intent, ready to convert"
+L00306,0.9449316017798621,High,Positive,Low,None,MF,Call this week - strong conversion likelihood
+L00135,0.9387340486080155,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00007,0.9309232959570909,High,Positive,High,None,PMS,"Call today - high intent, ready to convert"
+L00431,0.9308551215905483,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00043,0.9277503950751641,High,Neutral,Medium,None,Unclear,Call this week - strong conversion likelihood
+L00370,0.9220815643863618,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00126,0.9211130841919523,High,Positive,High,None,Unclear,"Call today - high intent, ready to convert"
+L00499,0.9188411690476763,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00445,0.9182269185917142,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00048,0.9160210566073407,High,Positive,Low,None,PMS,Call this week - strong conversion likelihood
+L00468,0.9069022428834091,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00330,0.902282313500444,High,Positive,Low,None,MF,Call this week - strong conversion likelihood
+L00233,0.8920503763395622,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00481,0.8808864551434599,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00215,0.8791831156565239,High,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00240,0.8787547723333052,High,Neutral,Low,None,Unclear,Call this week - strong conversion likelihood
+L00087,0.8776475113015958,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00319,0.8724545076209835,High,Neutral,Medium,None,SIP,Call this week - strong conversion likelihood
+L00081,0.8721908055801746,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00117,0.870533405513794,High,Positive,Low,None,MF,Call this week - strong conversion likelihood
+L00120,0.8704811192301327,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00217,0.8692250493187971,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00142,0.8643649816647713,High,Positive,High,None,Unclear,"Call today - high intent, ready to convert"
+L00497,0.8626258768646453,High,Positive,High,None,Unclear,"Call today - high intent, ready to convert"
+L00343,0.8603224194360557,High,Neutral,Low,None,AIF,Call this week - strong conversion likelihood
+L00302,0.8601022528649055,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00391,0.858777598998485,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00051,0.8546850176306824,High,Negative,Low,Pricing,Unclear,Address pricing concern (share cost breakdown / discount options)
+L00134,0.8503905779630118,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00423,0.8494323247787449,High,Positive,Low,None,MF,Call this week - strong conversion likelihood
+L00202,0.848358686224495,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00028,0.8397200265834065,High,Neutral,High,None,Unclear,Call this week - strong conversion likelihood
+L00030,0.8387593095086733,High,Neutral,Medium,None,SIP,Call this week - strong conversion likelihood
+L00344,0.83811225892861,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00158,0.8377240074416272,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00198,0.836609251676067,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00172,0.8334805928144705,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00359,0.8330122201669193,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00055,0.8330119417756476,High,Neutral,Low,None,Unclear,Call this week - strong conversion likelihood
+L00430,0.8223596250876702,High,Neutral,Medium,None,AIF,Call this week - strong conversion likelihood
+L00151,0.8220456083336242,High,Negative,Low,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00413,0.8210238131538461,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00485,0.8201075236111368,High,Positive,Low,None,AIF,Call this week - strong conversion likelihood
+L00092,0.8183523736891993,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00261,0.8100374685005141,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00186,0.8088155889582564,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00473,0.8085981813450179,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00123,0.8084763673742799,High,Neutral,High,None,SIP,Call this week - strong conversion likelihood
+L00214,0.7996314879470241,High,Positive,Low,None,MF,Call this week - strong conversion likelihood
+L00144,0.7963360438508584,High,Neutral,Low,None,Unclear,Call this week - strong conversion likelihood
+L00083,0.7931496633380635,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00254,0.7870934637486585,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00065,0.7858188428553177,High,Neutral,Low,None,SIP,Call this week - strong conversion likelihood
+L00255,0.7857109574466461,High,Negative,High,Pricing,Unclear,Address pricing concern (share cost breakdown / discount options)
+L00105,0.7802592641119953,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00292,0.7801452075334094,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00037,0.7750155595100108,High,Positive,High,None,PMS,"Call today - high intent, ready to convert"
+L00080,0.7716427128516564,High,Neutral,Low,None,Unclear,Call this week - strong conversion likelihood
+L00239,0.771355690282375,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00040,0.7708876115093113,High,Positive,Medium,None,MF,Call this week - strong conversion likelihood
+L00196,0.763613847260418,High,Positive,High,None,Unclear,"Call today - high intent, ready to convert"
+L00256,0.762196304037802,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00453,0.760883758540698,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00342,0.7576507175122816,High,Neutral,Medium,None,Unclear,Call this week - strong conversion likelihood
+L00317,0.7575059130558011,High,Neutral,Medium,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00335,0.7531293193075816,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00084,0.7527860747672739,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00090,0.7478952551262914,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00332,0.7444795439428233,High,Neutral,Low,None,SIP,Call this week - strong conversion likelihood
+L00143,0.7438724682338332,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00033,0.7411900775448347,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00383,0.7403103917547459,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00113,0.7400859968682098,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00409,0.7396742981097094,High,Neutral,High,None,Unclear,Call this week - strong conversion likelihood
+L00181,0.7396245094910691,High,Positive,Medium,None,AIF,Call this week - strong conversion likelihood
+L00300,0.7362071286741539,High,Neutral,Low,None,Unclear,Call this week - strong conversion likelihood
+L00149,0.7305891928406928,High,Positive,High,None,PMS,"Call today - high intent, ready to convert"
+L00377,0.7303275465598694,High,Neutral,High,None,Unclear,Call this week - strong conversion likelihood
+L00462,0.7285174898093559,High,Positive,Low,None,AIF,Call this week - strong conversion likelihood
+L00449,0.7270725329241916,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00209,0.7260451283714676,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00148,0.7258288499851948,High,Neutral,High,None,AIF,Call this week - strong conversion likelihood
+L00236,0.7219377580651907,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00223,0.7212600969119908,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00180,0.7179353870121745,High,Positive,Low,None,MF,Call this week - strong conversion likelihood
+L00237,0.7178165223303926,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00361,0.7109529225471901,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00461,0.7077056909352141,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00211,0.7025568723828284,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00281,0.6993507586427974,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00176,0.6963513530095645,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00124,0.693528957050617,High,Neutral,Low,None,PMS,Call this week - strong conversion likelihood
+L00247,0.6886507231160461,High,Positive,Low,None,SIP,Call this week - strong conversion likelihood
+L00277,0.6759927353544882,High,Negative,Medium,Trust,AIF,"Send credibility material (track record, testimonials, compliance docs)"
+L00296,0.6749880087073751,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00420,0.673614700110432,High,Neutral,Low,None,Unclear,Call this week - strong conversion likelihood
+L00285,0.6644949067316874,High,Neutral,Low,None,SIP,Call this week - strong conversion likelihood
+L00407,0.6612533242261214,High,Positive,Low,None,MF,Call this week - strong conversion likelihood
+L00244,0.6611430798402277,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00403,0.6608533466016742,High,Positive,Low,None,Unclear,Call this week - strong conversion likelihood
+L00088,0.6593049441704172,High,Positive,High,None,PMS,"Call today - high intent, ready to convert"
+L00259,0.6537362190484377,High,Positive,Medium,None,SIP,Call this week - strong conversion likelihood
+L00260,0.6427299157879157,High,Neutral,Medium,None,SIP,Call this week - strong conversion likelihood
+L00301,0.6385809997087947,High,Neutral,Low,None,AIF,Call this week - strong conversion likelihood
+L00424,0.6380000220375887,High,Positive,High,None,SIP,"Call today - high intent, ready to convert"
+L00015,0.6374519091057157,High,Neutral,Low,None,AIF,Call this week - strong conversion likelihood
+L00012,0.6277596903506387,High,Neutral,Low,None,Unclear,Call this week - strong conversion likelihood
+L00456,0.621992865416338,High,Positive,High,None,MF,"Call today - high intent, ready to convert"
+L00182,0.6192632185779953,High,Neutral,Low,None,Unclear,Call this week - strong conversion likelihood
+L00284,0.6087749149852673,High,Neutral,Medium,None,PMS,Call this week - strong conversion likelihood
+L00052,0.606502595318362,High,Neutral,Medium,None,Unclear,Call this week - strong conversion likelihood
+L00106,0.6034932697092219,High,Positive,High,None,PMS,"Call today - high intent, ready to convert"
+L00458,0.6022026334141029,High,Neutral,Medium,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00006,0.5919399259148106,Medium,Neutral,Medium,None,AIF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00363,0.591201722227352,Medium,Neutral,Medium,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00086,0.5798066356025333,Medium,Neutral,High,None,SIP,Prioritize outreach this week despite medium score - urgency flagged
+L00112,0.5782323482274959,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00111,0.5701625417207442,Medium,Neutral,High,None,SIP,Prioritize outreach this week despite medium score - urgency flagged
+L00480,0.5550568357390189,Medium,Positive,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00385,0.5434520563168899,Medium,Positive,High,None,AIF,Prioritize outreach this week despite medium score - urgency flagged
+L00471,0.5411298201056685,Medium,Negative,Medium,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00077,0.5397766714590417,Medium,Positive,High,None,SIP,Prioritize outreach this week despite medium score - urgency flagged
+L00210,0.5371747196823421,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00421,0.5354815655879305,Medium,Positive,Low,None,PMS,"Nurture - send relevant product info, follow up in 2 weeks"
+L00154,0.5298202747416323,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00039,0.5290962890134175,Medium,Positive,High,None,MF,Prioritize outreach this week despite medium score - urgency flagged
+L00478,0.5279571261298445,Medium,Neutral,High,None,SIP,Prioritize outreach this week despite medium score - urgency flagged
+L00070,0.5278091533464024,Medium,Positive,High,None,PMS,Prioritize outreach this week despite medium score - urgency flagged
+L00305,0.5268188617606437,Medium,Neutral,Low,None,AIF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00381,0.5242292191436576,Medium,Neutral,Low,Pricing,Unclear,Address pricing concern (share cost breakdown / discount options)
+L00191,0.5106985353395846,Medium,Neutral,Medium,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00463,0.5049159903214406,Medium,Neutral,High,None,SIP,Prioritize outreach this week despite medium score - urgency flagged
+L00235,0.5040612514657775,Medium,Positive,High,None,MF,Prioritize outreach this week despite medium score - urgency flagged
+L00320,0.5000284144811001,Medium,Positive,High,None,MF,Prioritize outreach this week despite medium score - urgency flagged
+L00479,0.4976969300862161,Medium,Neutral,Medium,None,Unclear,"Nurture - send relevant product info, follow up in 2 weeks"
+L00397,0.49764510601719597,Medium,Positive,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00487,0.4949244566430071,Medium,Neutral,Low,None,AIF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00091,0.4937585286738123,Medium,Positive,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00002,0.4935203598349623,Medium,Neutral,Low,None,AIF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00157,0.49316003260453517,Medium,Negative,High,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00286,0.49262182495645973,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00166,0.48907882684131193,Medium,Positive,Medium,None,AIF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00452,0.48474155159131604,Medium,Neutral,Low,None,MF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00163,0.48037264568190985,Medium,Neutral,Low,None,Unclear,"Nurture - send relevant product info, follow up in 2 weeks"
+L00177,0.47956276875393516,Medium,Negative,Medium,Competitor,Unclear,Send competitive comparison / differentiation pitch
+L00094,0.479542501366643,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00076,0.4724819978410252,Medium,Neutral,Low,None,MF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00293,0.47222028888736406,Medium,Positive,Low,None,PMS,"Nurture - send relevant product info, follow up in 2 weeks"
+L00057,0.47202749600505334,Medium,Neutral,Medium,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00275,0.47174606811667014,Medium,Neutral,High,Competitor,Unclear,Send competitive comparison / differentiation pitch
+L00493,0.4579429055446039,Medium,Neutral,High,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00098,0.45419896332553256,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00467,0.4537124639193625,Medium,Neutral,Low,Pricing,Unclear,Address pricing concern (share cost breakdown / discount options)
+L00374,0.4524523486093038,Medium,Neutral,Low,Timing,AIF,"Schedule follow-up for their stated timeline, don't push now"
+L00373,0.4519139118492217,Medium,Neutral,Medium,None,PMS,"Nurture - send relevant product info, follow up in 2 weeks"
+L00364,0.4421325825514882,Medium,Neutral,Low,Competitor,MF,Send competitive comparison / differentiation pitch
+L00216,0.4391906247063783,Medium,Positive,Medium,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00333,0.4366938601101591,Medium,Neutral,Medium,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00283,0.4353824343881294,Medium,Negative,Medium,Pricing,MF,Address pricing concern (share cost breakdown / discount options)
+L00074,0.4300179571670304,Medium,Positive,High,None,SIP,Prioritize outreach this week despite medium score - urgency flagged
+L00016,0.42906465445820496,Medium,Positive,Low,None,MF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00190,0.4265318740614331,Medium,Neutral,Low,None,PMS,"Nurture - send relevant product info, follow up in 2 weeks"
+L00241,0.42469533071460674,Medium,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00299,0.4190507362379967,Medium,Neutral,Low,None,PMS,"Nurture - send relevant product info, follow up in 2 weeks"
+L00434,0.41672726831607765,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00139,0.41660372161203363,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00369,0.41109591214877733,Medium,Neutral,Low,None,MF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00205,0.41076966567208945,Medium,Positive,High,None,AIF,Prioritize outreach this week despite medium score - urgency flagged
+L00102,0.41036390932447536,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00469,0.40257210911950353,Medium,Neutral,Low,None,PMS,"Nurture - send relevant product info, follow up in 2 weeks"
+L00153,0.4012332161127405,Medium,Neutral,Medium,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00483,0.40039205249260373,Medium,Neutral,Medium,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00358,0.40033912661990784,Medium,Negative,Low,Pricing,Unclear,Address pricing concern (share cost breakdown / discount options)
+L00018,0.39044692279500703,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00131,0.3831945049719232,Medium,Neutral,Medium,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00017,0.3827022834460702,Medium,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00439,0.37944639684778453,Medium,Neutral,Low,None,Unclear,"Nurture - send relevant product info, follow up in 2 weeks"
+L00038,0.37877294019305174,Medium,Positive,Low,None,PMS,"Nurture - send relevant product info, follow up in 2 weeks"
+L00454,0.37465877104550543,Medium,Positive,High,None,SIP,Prioritize outreach this week despite medium score - urgency flagged
+L00064,0.371776058314841,Medium,Positive,Medium,None,PMS,"Nurture - send relevant product info, follow up in 2 weeks"
+L00232,0.3683701246924636,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00264,0.3675487730289869,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00341,0.3658668521214247,Medium,Neutral,Medium,Timing,PMS,"Schedule follow-up for their stated timeline, don't push now"
+L00170,0.36012978729830275,Medium,Positive,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00231,0.34994839938238365,Medium,Neutral,Medium,None,MF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00253,0.34361666731119966,Medium,Neutral,Medium,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00099,0.3433853726538168,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00366,0.34326152608280347,Medium,Positive,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00008,0.33772528478120806,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00250,0.33625936889932956,Medium,Neutral,Low,None,Unclear,"Nurture - send relevant product info, follow up in 2 weeks"
+L00159,0.33098147474339884,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00271,0.33085374859456745,Medium,Neutral,High,Competitor,MF,Send competitive comparison / differentiation pitch
+L00063,0.3287944657243092,Medium,Neutral,Low,None,MF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00125,0.32840539972736466,Medium,Positive,Low,None,PMS,"Nurture - send relevant product info, follow up in 2 weeks"
+L00346,0.32587074340281974,Medium,Neutral,High,None,PMS,Prioritize outreach this week despite medium score - urgency flagged
+L00326,0.3258546635852856,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00365,0.32482929382444165,Medium,Neutral,Low,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00219,0.322823112815104,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00127,0.3185362321428076,Medium,Neutral,Low,None,MF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00101,0.31117076540354877,Medium,Neutral,Medium,Timing,PMS,"Schedule follow-up for their stated timeline, don't push now"
+L00378,0.3101089720325864,Medium,Neutral,Low,None,MF,"Nurture - send relevant product info, follow up in 2 weeks"
+L00036,0.3098369559290535,Medium,Neutral,Medium,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00108,0.3079626769693161,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00031,0.3065511917469782,Medium,Positive,Medium,None,PMS,"Nurture - send relevant product info, follow up in 2 weeks"
+L00443,0.3043717702008806,Medium,Neutral,Low,None,Unclear,"Nurture - send relevant product info, follow up in 2 weeks"
+L00187,0.304331176848668,Medium,Neutral,Low,Competitor,Unclear,Send competitive comparison / differentiation pitch
+L00185,0.30137795084236446,Medium,Neutral,Low,None,SIP,"Nurture - send relevant product info, follow up in 2 weeks"
+L00411,0.2945417831872549,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00024,0.29268625648639496,Low,Neutral,Low,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00042,0.2867926199166149,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00050,0.28491675437548813,Low,Negative,Low,Competitor,Unclear,Send competitive comparison / differentiation pitch
+L00455,0.2815512225354338,Low,Positive,High,None,PMS,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00060,0.28009710222979073,Low,Negative,Medium,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00465,0.27892903383639933,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00262,0.27824366486409535,Low,Neutral,Low,None,AIF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00422,0.27396498564645544,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00184,0.27043861326504653,Low,Neutral,Low,Pricing,Unclear,Address pricing concern (share cost breakdown / discount options)
+L00372,0.267507214126179,Low,Neutral,Medium,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00222,0.26330079809366047,Low,Negative,High,Pricing,PMS,Address pricing concern (share cost breakdown / discount options)
+L00003,0.2625026910377952,Low,Neutral,Medium,None,AIF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00243,0.261632944397346,Low,Neutral,Low,None,AIF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00138,0.2603778555798128,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00252,0.25887179448806935,Low,Positive,High,None,SIP,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00229,0.25672426626337186,Low,Negative,Low,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00089,0.2537176493866195,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00068,0.2529912064331066,Low,Neutral,Low,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00472,0.25223115083345876,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00318,0.2503519092606727,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00062,0.24350837574752301,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00005,0.2428585052111476,Low,Positive,High,None,SIP,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00118,0.24270541523481853,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00011,0.24043653324716271,Low,Negative,Low,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00348,0.23760705130234877,Low,Neutral,Low,None,Unclear,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00194,0.23418276780934413,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00294,0.2291621293213758,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00201,0.22813810797628822,Low,Neutral,Medium,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00197,0.22763448442947493,Low,Positive,High,None,SIP,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00027,0.22719438467822622,Low,Neutral,High,None,Unclear,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00193,0.22591356915314356,Low,Positive,Low,None,PMS,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00288,0.22022992325320132,Low,Neutral,Low,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00165,0.2182871210706147,Low,Neutral,Medium,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00322,0.21468318423662813,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00382,0.21316115692950238,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00136,0.21284988733991037,Low,Neutral,Low,None,AIF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00428,0.21043975043141072,Low,Neutral,High,None,Unclear,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00310,0.20972651190049374,Low,Positive,Low,None,SIP,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00353,0.20756359932436894,Low,Neutral,Low,None,Unclear,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00221,0.20368305282402444,Low,Negative,Medium,Pricing,MF,Address pricing concern (share cost breakdown / discount options)
+L00044,0.20290409970636078,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00206,0.2005738180430808,Low,Neutral,Medium,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00386,0.19790703166468848,Low,Negative,High,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00188,0.19760589645161947,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00225,0.1973890263096183,Low,Neutral,Low,None,AIF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00287,0.19685999661004616,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00354,0.19612205824075238,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00380,0.19546936940841828,Low,Positive,Low,None,SIP,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00429,0.1953271711083329,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00109,0.19192402702697886,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00436,0.19146576758515224,Low,Negative,Medium,Pricing,MF,Address pricing concern (share cost breakdown / discount options)
+L00291,0.19137071049667848,Low,Negative,Medium,Pricing,AIF,Address pricing concern (share cost breakdown / discount options)
+L00315,0.19037924137956935,Low,Neutral,Low,Pricing,Unclear,Address pricing concern (share cost breakdown / discount options)
+L00289,0.18948880370740895,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00334,0.18776235493947302,Low,Neutral,Medium,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00001,0.18629581560076924,Low,Neutral,Medium,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00325,0.18315174490778266,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00274,0.18041103228661484,Low,Positive,Low,None,SIP,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00192,0.17923368718061608,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00195,0.1781653668824586,Low,Neutral,High,None,Unclear,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00208,0.17737954009738377,Low,Neutral,Low,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00486,0.17691946792186622,Low,Neutral,Medium,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00121,0.17647594907337633,Low,Neutral,High,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00435,0.17585680152936933,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00160,0.17513605863946144,Low,Neutral,Medium,Trust,MF,"Send credibility material (track record, testimonials, compliance docs)"
+L00056,0.1730755200502662,Low,Neutral,High,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00072,0.17268499883541544,Low,Neutral,Medium,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00200,0.17175443711561592,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00054,0.17114873373959116,Low,Neutral,Low,None,Unclear,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00402,0.17050487331578804,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00438,0.1682926609795226,Low,Neutral,Low,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00474,0.16636569550627758,Low,Neutral,Medium,Competitor,AIF,Send competitive comparison / differentiation pitch
+L00104,0.1656792842927083,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00053,0.16524332095737687,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00035,0.16521530248292102,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00418,0.16479966650288613,Low,Positive,High,None,PMS,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00203,0.1634582027466464,Low,Neutral,Medium,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00009,0.16330649978909523,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00352,0.16301863253126272,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00249,0.16289006624772726,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00337,0.1612438221422213,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00340,0.160736813770631,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00267,0.15957582045398946,Low,Neutral,Medium,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00069,0.15647418920047645,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00269,0.1537234338599187,Low,Neutral,High,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00014,0.15340365522325047,Low,Neutral,Low,None,Unclear,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00122,0.15318580333934373,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00433,0.15208077409337542,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00376,0.15163225485693338,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00417,0.15074346165583866,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00096,0.15056145811732177,Low,Positive,High,None,PMS,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00073,0.14966199439435998,Low,Neutral,Low,None,AIF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00132,0.14664585582227962,Low,Neutral,Medium,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00257,0.14592157811755568,Low,Neutral,Low,None,Unclear,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00477,0.14579409522813158,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00025,0.14505632244486238,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00270,0.1441531954291422,Low,Neutral,Medium,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00058,0.14386652636218436,Low,Positive,High,None,SIP,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00395,0.1438491529832413,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00297,0.14330129843714043,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00290,0.14280999282495282,Low,Neutral,Medium,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00152,0.14236474772983704,Low,Negative,Low,Trust,AIF,"Send credibility material (track record, testimonials, compliance docs)"
+L00207,0.1401510864741605,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00129,0.1395016520631651,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00498,0.1389182811616218,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00437,0.1370491883942112,Low,Positive,High,None,MF,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00128,0.13582478927971772,Low,Neutral,Low,Timing,AIF,"Schedule follow-up for their stated timeline, don't push now"
+L00328,0.13416100808408127,Low,Positive,Medium,None,PMS,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00494,0.12969606352557503,Low,Neutral,Low,Competitor,MF,Send competitive comparison / differentiation pitch
+L00398,0.12928930397918062,Low,Neutral,Medium,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00234,0.12818512669594875,Low,Neutral,Low,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00489,0.12747218019171283,Low,Neutral,Low,Timing,AIF,"Schedule follow-up for their stated timeline, don't push now"
+L00061,0.1261904790112697,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00324,0.12460450589506603,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00137,0.12442459744975178,Low,Neutral,Low,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00392,0.12208227572218944,Low,Neutral,High,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00350,0.1205743713184406,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00010,0.12022295243423037,Low,Neutral,Medium,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00490,0.118687416881315,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00097,0.11743841756024924,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00349,0.11683124464703551,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00085,0.116731509209338,Low,Neutral,Low,None,AIF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00167,0.11539639316460454,Low,Positive,Low,None,PMS,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00357,0.11450773187613372,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00368,0.114318538724305,Low,Neutral,Low,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00078,0.11182759087540256,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00484,0.11114006101650512,Low,Negative,Medium,Pricing,MF,Address pricing concern (share cost breakdown / discount options)
+L00248,0.11057255852903213,Low,Negative,High,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00347,0.11010114033774278,Low,Neutral,Low,Trust,PMS,"Send credibility material (track record, testimonials, compliance docs)"
+L00263,0.10912287198457381,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00476,0.1086886056454738,Low,Neutral,High,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00095,0.1070220291884076,Low,Negative,High,Pricing,Unclear,Address pricing concern (share cost breakdown / discount options)
+L00441,0.10528462906655595,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00258,0.10210488510071476,Low,Negative,Low,Pricing,Unclear,Address pricing concern (share cost breakdown / discount options)
+L00168,0.0994151553843807,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00426,0.09901899021775837,Low,Neutral,Low,Timing,PMS,"Schedule follow-up for their stated timeline, don't push now"
+L00475,0.09890402977919377,Low,Positive,High,None,PMS,"Low score but positive sentiment - light-touch nurture, re-evaluate later"
+L00174,0.09770545408429993,Low,Negative,Medium,Competitor,MF,Send competitive comparison / differentiation pitch
+L00360,0.09509143764718365,Low,Neutral,Medium,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00066,0.09461202755036913,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00309,0.09368342706482476,Low,Neutral,High,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00278,0.09266265662919557,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00150,0.092525868579771,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00307,0.09033759782003109,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00416,0.08939675312706716,Low,Neutral,Low,Timing,Unclear,"Schedule follow-up for their stated timeline, don't push now"
+L00425,0.08909522620572474,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00314,0.08845176111754843,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00115,0.08723410891122299,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00175,0.08696837267008166,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00119,0.08577294788716404,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00451,0.08545816614372344,Low,Negative,Low,Competitor,Unclear,Send competitive comparison / differentiation pitch
+L00495,0.08540675840280097,Low,Neutral,Low,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00389,0.0837621818234233,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00019,0.08203183698668542,Low,Neutral,Low,Timing,PMS,"Schedule follow-up for their stated timeline, don't push now"
+L00178,0.08093690384540111,Low,Neutral,Medium,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00280,0.07936913005513034,Low,Neutral,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00410,0.07872364225871345,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00169,0.07705028072882066,Low,Negative,Low,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00067,0.07437635151274484,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00339,0.07409100672364242,Low,Neutral,Medium,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00130,0.0737006573994113,Low,Neutral,Low,Timing,PMS,"Schedule follow-up for their stated timeline, don't push now"
+L00049,0.07290488977133175,Low,Neutral,Medium,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00141,0.07273817858906347,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00133,0.06768198486889292,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00156,0.06496948604579393,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00189,0.06459243928989412,Low,Negative,Low,Pricing,MF,Address pricing concern (share cost breakdown / discount options)
+L00173,0.06368338439105092,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00146,0.06360649325074398,Low,Neutral,High,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00311,0.06352654809657897,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00345,0.0633158653728136,Low,Neutral,Low,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00075,0.06244926979348242,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00029,0.062069831585824076,Low,Neutral,Medium,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00147,0.06132269496722785,Low,Neutral,Low,Trust,AIF,"Send credibility material (track record, testimonials, compliance docs)"
+L00268,0.060684644537488036,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00228,0.06000894274867935,Low,Negative,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00405,0.059842143554432715,Low,Neutral,High,Timing,PMS,"Schedule follow-up for their stated timeline, don't push now"
+L00224,0.059536709909317975,Low,Neutral,High,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00145,0.05910630969164714,Low,Neutral,High,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00446,0.05867678229445339,Low,Negative,Low,Trust,Unclear,"Send credibility material (track record, testimonials, compliance docs)"
+L00308,0.05861724019258457,Low,Neutral,Low,Trust,MF,"Send credibility material (track record, testimonials, compliance docs)"
+L00022,0.05842671326744181,Low,Neutral,Low,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00313,0.05796042487589716,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00323,0.05733030613449022,Low,Neutral,Low,None,SIP,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00183,0.05681512602590476,Low,Neutral,Low,None,MF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00227,0.05568401916762429,Low,Negative,Medium,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00470,0.055344461129686835,Low,Neutral,Medium,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00021,0.05438003184586253,Low,Neutral,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00140,0.05193617375989963,Low,Neutral,Low,Competitor,Unclear,Send competitive comparison / differentiation pitch
+L00329,0.0512386231123711,Low,Neutral,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00026,0.04926081047765116,Low,Neutral,Low,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00406,0.04915749576940943,Low,Negative,Low,Trust,Unclear,"Send credibility material (track record, testimonials, compliance docs)"
+L00251,0.04881532164326715,Low,Neutral,Low,Trust,AIF,"Send credibility material (track record, testimonials, compliance docs)"
+L00394,0.048706865091008696,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00164,0.04831006687911699,Low,Neutral,Low,Timing,AIF,"Schedule follow-up for their stated timeline, don't push now"
+L00457,0.04783063470846652,Low,Neutral,Medium,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00013,0.04775740897381809,Low,Neutral,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00032,0.047254111831681225,Low,Neutral,Low,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00432,0.04664724306610039,Low,Neutral,Low,Trust,MF,"Send credibility material (track record, testimonials, compliance docs)"
+L00304,0.046573397221704296,Low,Neutral,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00162,0.04414438771868529,Low,Negative,Medium,Pricing,MF,Address pricing concern (share cost breakdown / discount options)
+L00393,0.04374259869758709,Low,Negative,High,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00020,0.04228730716013896,Low,Neutral,Medium,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00298,0.041697463556570204,Low,Neutral,High,Competitor,PMS,Send competitive comparison / differentiation pitch
+L00238,0.04159080383559518,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00004,0.040950695331214065,Low,Neutral,Low,Trust,AIF,"Send credibility material (track record, testimonials, compliance docs)"
+L00412,0.04070091284386456,Low,Neutral,Medium,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00379,0.03984367773636925,Low,Negative,Low,Timing,AIF,"Schedule follow-up for their stated timeline, don't push now"
+L00390,0.038509127336877655,Low,Negative,High,Competitor,MF,Send competitive comparison / differentiation pitch
+L00204,0.037648211221221105,Low,Neutral,Medium,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00103,0.037113617652905495,Low,Neutral,Low,None,AIF,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00023,0.03595584020341579,Low,Negative,High,Pricing,MF,Address pricing concern (share cost breakdown / discount options)
+L00388,0.0354117971460454,Low,Neutral,Low,Trust,PMS,"Send credibility material (track record, testimonials, compliance docs)"
+L00273,0.035051288970635745,Low,Negative,High,Competitor,PMS,Send competitive comparison / differentiation pitch
+L00442,0.03339850683297643,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00447,0.033185334048435156,Low,Neutral,Medium,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00213,0.03228209332614006,Low,Negative,Low,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00450,0.031196365748031092,Low,Neutral,Low,Competitor,PMS,Send competitive comparison / differentiation pitch
+L00282,0.030656580579188773,Low,Neutral,Low,Trust,MF,"Send credibility material (track record, testimonials, compliance docs)"
+L00466,0.029486026966615425,Low,Neutral,Medium,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00399,0.0288589036863605,Low,Neutral,Medium,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00179,0.028641219651492335,Low,Negative,Low,Pricing,MF,Address pricing concern (share cost breakdown / discount options)
+L00161,0.028347495548694823,Low,Negative,Low,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00491,0.027989174042941715,Low,Neutral,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00415,0.027676694679303605,Low,Neutral,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00460,0.027375861346401888,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00041,0.027065885914050822,Low,Neutral,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00230,0.026413521711575027,Low,Neutral,Medium,Competitor,MF,Send competitive comparison / differentiation pitch
+L00384,0.02546892137380089,Low,Neutral,Medium,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00496,0.025192008920898817,Low,Negative,High,Competitor,MF,Send competitive comparison / differentiation pitch
+L00492,0.025120128512783817,Low,Neutral,Low,Timing,PMS,"Schedule follow-up for their stated timeline, don't push now"
+L00448,0.024726014051560344,Low,Negative,Low,Pricing,PMS,Address pricing concern (share cost breakdown / discount options)
+L00367,0.023022918119797085,Low,Neutral,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00220,0.0222063015575917,Low,Neutral,Low,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00226,0.022038948752825086,Low,Neutral,Low,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00171,0.021084459984713054,Low,Neutral,Low,Competitor,AIF,Send competitive comparison / differentiation pitch
+L00355,0.020865227617288467,Low,Negative,Low,Competitor,MF,Send competitive comparison / differentiation pitch
+L00321,0.019300293606267546,Low,Negative,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00362,0.019035442705286752,Low,Negative,Low,Timing,SIP,"Schedule follow-up for their stated timeline, don't push now"
+L00107,0.018672631715608772,Low,Neutral,Low,Trust,Unclear,"Send credibility material (track record, testimonials, compliance docs)"
+L00265,0.018391809942110204,Low,Neutral,Low,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00079,0.018252384078979743,Low,Neutral,Medium,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00351,0.01817000103062824,Low,Neutral,Medium,Competitor,MF,Send competitive comparison / differentiation pitch
+L00500,0.017601968719694886,Low,Neutral,Low,None,PMS,"Deprioritize - low conversion likelihood, minimal recent engagement signal"
+L00459,0.017410611706982885,Low,Neutral,Medium,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00404,0.016590429873842166,Low,Neutral,Low,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00375,0.015667169616104124,Low,Neutral,Medium,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00482,0.014741791129335376,Low,Neutral,Medium,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00464,0.014458034487480467,Low,Neutral,Medium,Pricing,PMS,Address pricing concern (share cost breakdown / discount options)
+L00371,0.014229658347753898,Low,Neutral,High,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00408,0.013624331660098424,Low,Neutral,Low,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00295,0.01290850698529175,Low,Neutral,Low,Timing,PMS,"Schedule follow-up for their stated timeline, don't push now"
+L00110,0.012428127665006788,Low,Neutral,Medium,Pricing,MF,Address pricing concern (share cost breakdown / discount options)
+L00279,0.01205257957578849,Low,Neutral,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00427,0.010342001182104658,Low,Neutral,High,Competitor,AIF,Send competitive comparison / differentiation pitch
+L00440,0.009902160114346591,Low,Neutral,Low,Pricing,SIP,Address pricing concern (share cost breakdown / discount options)
+L00400,0.009646947626183785,Low,Negative,Low,Pricing,PMS,Address pricing concern (share cost breakdown / discount options)
+L00047,0.009340193812100573,Low,Neutral,High,Pricing,PMS,Address pricing concern (share cost breakdown / discount options)
+L00114,0.009029051212760656,Low,Neutral,Low,Trust,SIP,"Send credibility material (track record, testimonials, compliance docs)"
+L00093,0.00861902777702919,Low,Negative,Low,Pricing,MF,Address pricing concern (share cost breakdown / discount options)
+L00116,0.008516549869171856,Low,Neutral,Low,Competitor,SIP,Send competitive comparison / differentiation pitch
+L00488,0.007103157418909866,Low,Neutral,Medium,Competitor,PMS,Send competitive comparison / differentiation pitch
+L00387,0.005921902432530669,Low,Neutral,Low,Trust,MF,"Send credibility material (track record, testimonials, compliance docs)"
+L00414,0.005483810343796958,Low,Neutral,Low,Trust,MF,"Send credibility material (track record, testimonials, compliance docs)"
+L00396,0.005216549060518966,Low,Neutral,Low,Competitor,PMS,Send competitive comparison / differentiation pitch
+L00444,0.004726473430699323,Low,Neutral,Low,Timing,MF,"Schedule follow-up for their stated timeline, don't push now"
+L00316,0.004705936743995647,Low,Neutral,Low,Trust,MF,"Send credibility material (track record, testimonials, compliance docs)"

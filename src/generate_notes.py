@@ -187,3 +187,7 @@ if __name__ == "__main__":
     out_path = os.path.join(DATA_DIR, "hidden_note_tags.csv")
     hidden_tags.to_csv(out_path, index=False)
     print(f"\nSaved hidden tags to {out_path} (NOT a model feature -- validation only)")
+
+    notes_out_path = os.path.join(DATA_DIR, "rm_notes_v1.csv")
+    df[["lead_id", "rm_notes"]].to_csv(notes_out_path, index=False)
+    print(f"Saved raw RM notes to {notes_out_path}")

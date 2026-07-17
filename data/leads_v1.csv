@@ -1,0 +1,501 @@
+lead_id,age,city_tier,occupation,annual_income_lakhs,investable_surplus_lakhs,existing_products,source,days_since_first_contact,touchpoints_last_30d,last_meeting_outcome,note_sentiment,note_urgency,note_objection,note_product_interest,conversion_probability,converted_within_30d
+L00001,48,Tier-1,Business owner,54.3,13.7,"PMS, AIF, Insurance",Existing-client-family,25,5,Objection,Negative,High,Trust,MF,0.2104604506656474,0
+L00002,35,Tier-1,Other,39.7,11.8,PMS,Referral,178,5,Neutral,Neutral,Medium,,AIF,0.1847577996511322,1
+L00003,53,Tier-2,Self-employed,46.1,3.3,AIF,Digital,22,5,Neutral,Neutral,High,,AIF,0.0883154124496884,0
+L00004,54,Tier-1,Business owner,63.1,26.5,"Insurance, Direct Equity, PMS",Digital,45,6,No-show,Negative,Low,Trust,AIF,0.0701240104068978,0
+L00005,25,Tier-1,Salaried,20.8,4.2,,Digital,2,5,Objection,Positive,High,,SIP,0.089339604504443,0
+L00006,32,Tier-3,Retired,67.7,11.1,"FD, PMS",Event,65,8,Neutral,Neutral,High,,AIF,0.2234579481180638,0
+L00007,46,Tier-3,Salaried,14.0,11.7,"Direct Equity, MF, FD",Referral,25,1,Positive,Positive,Medium,,PMS,0.755714834763445,1
+L00008,42,Tier-2,Business owner,46.1,11.3,FD,Existing-client-family,21,5,Objection,Neutral,Medium,,MF,0.0177826450602173,0
+L00009,45,Tier-1,Salaried,41.5,11.0,,Cold-call,7,6,Neutral,Neutral,Low,,MF,0.039988108638955,0
+L00010,36,Tier-2,Self-employed,23.8,1.5,,Existing-client-family,127,6,None-yet,Neutral,High,,MF,0.069942258634929,0
+L00011,54,Tier-2,Business owner,36.0,7.3,,Event,44,5,Objection,Negative,Low,Timing,Unclear,0.0149148431666919,0
+L00012,53,Tier-1,Self-employed,23.7,9.9,AIF,Existing-client-family,14,3,None-yet,Neutral,Low,,Unclear,0.263780606936664,0
+L00013,46,Tier-2,Retired,17.3,5.4,Insurance,Cold-call,1,3,Neutral,Negative,Low,Trust,SIP,0.0034713115913122,0
+L00014,56,Tier-1,Salaried,28.6,9.9,,Digital,80,3,None-yet,Neutral,Medium,,Unclear,0.0404130065727406,0
+L00015,50,Tier-1,Self-employed,16.9,10.6,"AIF, Insurance, Direct Equity",Digital,43,4,Positive,Neutral,Medium,,AIF,0.5197861616294862,0
+L00016,36,Tier-2,Salaried,45.9,24.4,,Cold-call,24,3,Neutral,Positive,Low,,MF,0.0968430106824916,1
+L00017,49,Tier-1,Salaried,16.4,1.4,PMS,Digital,14,4,Positive,Negative,Medium,Timing,MF,0.0289746836165149,0
+L00018,35,Tier-1,Salaried,60.2,14.9,,Cold-call,58,2,Positive,Neutral,Low,,MF,0.1049646676092518,0
+L00019,54,Tier-2,Salaried,16.0,10.7,,Referral,67,3,None-yet,Negative,Medium,Timing,PMS,0.0703256600038879,0
+L00020,45,Tier-3,Salaried,24.6,9.5,,Event,23,2,No-show,Negative,Low,Competitor,SIP,0.026679160717613,0
+L00021,43,Tier-2,Business owner,23.6,2.8,,Referral,37,6,Objection,Negative,Low,Trust,SIP,0.032805022590459,0
+L00022,38,Tier-2,Business owner,92.5,17.7,Direct Equity,Existing-client-family,149,2,Objection,Negative,Low,Competitor,SIP,0.0048268282702438,0
+L00023,57,Tier-3,Business owner,46.1,22.5,,Referral,180,5,Objection,Negative,High,Pricing,MF,0.0056559234912973,0
+L00024,43,Tier-1,Salaried,31.6,4.9,,Referral,92,3,Objection,Negative,Medium,Timing,Unclear,0.0225656647574593,0
+L00025,41,Tier-1,Salaried,51.9,33.9,Direct Equity,Event,30,4,None-yet,Neutral,Low,,PMS,0.011404806575175,0
+L00026,41,Tier-1,Salaried,10.0,5.3,,Event,5,8,Objection,Negative,Medium,Competitor,SIP,0.0164682927159513,0
+L00027,50,Tier-1,Business owner,35.5,21.3,MF,Cold-call,79,9,No-show,Neutral,High,,Unclear,0.0051322626485334,0
+L00028,49,Tier-2,Retired,148.2,30.6,,Existing-client-family,2,3,Neutral,Neutral,High,,Unclear,0.2202598790809884,1
+L00029,49,Tier-1,Salaried,40.2,12.6,,Digital,17,0,None-yet,Neutral,High,,SIP,0.1880103226048919,0
+L00030,49,Tier-1,Business owner,38.4,17.0,,Event,2,8,Positive,Neutral,High,,MF,0.3896914501224081,0
+L00031,66,Tier-1,Salaried,53.7,12.1,,Digital,50,2,Neutral,Positive,Medium,,PMS,0.0889007868939716,0
+L00032,41,Tier-1,Salaried,68.5,47.8,AIF,Digital,20,1,None-yet,Negative,Low,Competitor,SIP,0.0404257920030504,0
+L00033,40,Tier-3,Salaried,10.0,1.0,,Digital,36,2,Positive,Positive,Medium,,SIP,0.3385290421099655,1
+L00034,37,Tier-1,Salaried,11.3,1.4,"Insurance, Direct Equity, MF",Referral,27,3,Positive,Positive,Medium,,SIP,0.6668696409447664,1
+L00035,51,Tier-1,Business owner,42.4,10.8,,Cold-call,37,1,Neutral,Neutral,Medium,,MF,0.0216781732279479,0
+L00036,56,Tier-1,Retired,22.2,2.1,PMS,Cold-call,6,3,Neutral,Neutral,High,,SIP,0.286398960484562,0
+L00037,44,Tier-1,Salaried,91.7,57.4,"AIF, FD",Referral,5,4,None-yet,Positive,Low,,PMS,0.8802166135261724,1
+L00038,37,Tier-2,Self-employed,29.4,12.4,,Existing-client-family,52,3,None-yet,Positive,Low,,PMS,0.5543843378504523,1
+L00039,37,Tier-1,Business owner,10.0,1.3,FD,Digital,25,1,Neutral,Positive,Medium,,MF,0.1729348154741394,0
+L00040,52,Tier-1,Other,15.1,6.2,"MF, FD",Referral,26,6,None-yet,Positive,Medium,,MF,0.7473580964032074,0
+L00041,52,Tier-1,Self-employed,10.0,6.1,AIF,Cold-call,3,4,Objection,Negative,Low,Timing,SIP,0.0033611343946456,0
+L00042,50,Tier-2,Salaried,31.1,4.9,MF,Referral,42,3,None-yet,Neutral,Medium,,MF,0.0616145256493365,0
+L00043,38,Tier-2,Self-employed,32.1,14.3,"AIF, MF, PMS",Referral,37,4,Neutral,Neutral,High,,Unclear,0.4591863032692814,0
+L00044,47,Tier-2,Salaried,27.2,9.9,Insurance,Cold-call,1,1,Neutral,Neutral,Low,,SIP,0.0297218521387883,0
+L00045,46,Tier-2,Other,77.9,38.5,"AIF, FD",Referral,4,7,Positive,Positive,High,,PMS,0.9921005606736988,1
+L00046,47,Tier-2,Salaried,84.7,40.4,,Referral,35,6,Positive,Positive,Medium,,Unclear,0.8585331914451201,1
+L00047,54,Tier-1,Business owner,32.5,13.1,,Cold-call,3,5,No-show,Negative,High,Pricing,PMS,0.0156163056832576,0
+L00048,47,Tier-1,Salaried,10.0,2.3,,Referral,13,5,Positive,Positive,Low,,PMS,0.4154551661127073,0
+L00049,52,Tier-2,Salaried,56.4,17.6,,Event,6,3,Objection,Negative,High,Timing,MF,0.0097896768363812,0
+L00050,46,Tier-1,Retired,54.0,50.5,,Event,30,6,Objection,Negative,Medium,Competitor,Unclear,0.0048022810134226,0
+L00051,48,Tier-2,Self-employed,45.4,3.4,Direct Equity,Referral,32,5,Positive,Negative,Low,Pricing,Unclear,0.1099423274202256,0
+L00052,51,Tier-1,Salaried,72.8,41.3,,Digital,39,5,Neutral,Neutral,High,,Unclear,0.244952776504789,0
+L00053,30,Tier-2,Retired,16.2,2.2,,Referral,61,5,Objection,Negative,Medium,Timing,SIP,0.0027536608163079,0
+L00054,42,Tier-3,Retired,149.3,42.8,,Cold-call,22,4,None-yet,Neutral,Medium,,Unclear,0.0227683243673435,0
+L00055,40,Tier-2,Salaried,18.7,2.1,,Referral,2,3,Neutral,Neutral,Medium,,Unclear,0.0708342666135325,0
+L00056,39,Tier-3,Self-employed,61.8,35.4,"Insurance, Direct Equity",Existing-client-family,88,8,None-yet,Neutral,High,,PMS,0.5468511240298447,0
+L00057,42,Tier-2,Self-employed,11.2,3.5,"MF, AIF",Referral,39,3,None-yet,Neutral,High,,SIP,0.239485823875695,0
+L00058,60,Tier-3,Self-employed,19.1,11.8,"FD, MF, PMS",Cold-call,21,1,Objection,Positive,High,,MF,0.0008956839501784,0
+L00059,36,Tier-1,Salaried,105.8,41.7,"AIF, FD",Referral,38,6,Neutral,Positive,Medium,,AIF,0.8505137377493583,1
+L00060,55,Tier-1,Salaried,30.5,10.0,FD,Referral,11,1,No-show,Negative,Low,Pricing,SIP,0.0118542532686288,0
+L00061,28,Tier-2,Retired,65.9,10.4,"PMS, FD",Digital,19,5,None-yet,Neutral,Low,,MF,0.4558467987570563,0
+L00062,42,Tier-1,Retired,43.2,27.0,AIF,Cold-call,54,0,Neutral,Neutral,Low,,SIP,0.0760644836026269,0
+L00063,47,Tier-1,Business owner,34.0,6.7,FD,Existing-client-family,45,1,None-yet,Neutral,Low,,MF,0.4266527189038436,0
+L00064,51,Tier-3,Other,95.1,39.1,PMS,Referral,127,4,None-yet,Positive,Medium,,PMS,0.0326176172766838,0
+L00065,52,Tier-2,Business owner,31.0,24.5,"AIF, Direct Equity",Referral,16,4,Neutral,Neutral,Low,,SIP,0.8281678770336394,1
+L00066,53,Tier-1,Business owner,10.5,7.6,FD,Digital,38,4,No-show,Neutral,Low,,MF,0.0217089278688692,0
+L00067,42,Tier-1,Business owner,20.9,10.9,AIF,Digital,31,8,Objection,Neutral,Low,,MF,0.0021001743891005,0
+L00068,40,Tier-1,Self-employed,53.8,18.9,,Event,2,6,No-show,Negative,Low,Timing,Unclear,0.0233840421764642,0
+L00069,54,Tier-1,Self-employed,48.3,14.1,,Existing-client-family,13,5,None-yet,Neutral,Medium,,PMS,0.629562416044071,0
+L00070,43,Tier-3,Salaried,12.2,1.0,,Event,134,3,Positive,Neutral,High,,PMS,0.0252282385883713,0
+L00071,32,Tier-1,Self-employed,22.0,7.9,AIF,Referral,23,7,Positive,Positive,Medium,,MF,0.9608836092095888,1
+L00072,34,Tier-1,Salaried,24.4,10.0,,Digital,5,4,Neutral,Neutral,High,,MF,0.0365491724463512,0
+L00073,36,Tier-2,Salaried,28.3,13.4,"AIF, MF",Cold-call,29,6,None-yet,Neutral,Medium,,AIF,0.012999081194042,0
+L00074,50,Tier-1,Self-employed,14.0,1.0,AIF,Digital,61,4,Neutral,Positive,High,,SIP,0.0841266884529668,1
+L00075,46,Tier-1,Salaried,23.6,11.2,Direct Equity,Cold-call,91,2,None-yet,Neutral,Medium,,SIP,0.0039849032387961,0
+L00076,52,Tier-2,Salaried,22.0,8.2,,Referral,47,3,Neutral,Neutral,Medium,,MF,0.213839742456746,0
+L00077,41,Tier-2,Business owner,62.8,15.6,,Digital,15,4,Neutral,Positive,High,,SIP,0.2318423203530896,0
+L00078,47,Tier-3,Retired,64.5,17.2,MF,Event,51,2,None-yet,Neutral,Low,,MF,0.2890005097878541,0
+L00079,51,Tier-2,Salaried,33.0,8.9,,Digital,46,7,Objection,Negative,Medium,Competitor,MF,0.0215218663861344,0
+L00080,42,Tier-1,Salaried,27.8,1.5,Insurance,Existing-client-family,115,1,Neutral,Neutral,Low,,Unclear,0.1505419764539571,1
+L00081,50,Tier-2,Salaried,40.4,17.6,FD,Digital,45,8,Positive,Positive,Medium,,SIP,0.8715528623539908,1
+L00082,38,Tier-3,Business owner,20.7,10.0,PMS,Referral,31,3,Positive,Positive,High,,MF,0.4707070683368916,1
+L00083,41,Tier-2,Business owner,16.4,1.7,,Digital,9,4,Positive,Positive,High,,SIP,0.6472119748105666,1
+L00084,41,Tier-3,Salaried,19.0,8.1,,Referral,34,3,Neutral,Positive,Medium,,MF,0.1369827051204266,1
+L00085,33,Tier-2,Business owner,23.5,1.0,"Direct Equity, PMS",Digital,14,3,Objection,Neutral,Low,,AIF,0.0045738701689026,0
+L00086,50,Tier-3,Salaried,16.2,5.9,Insurance,Referral,6,4,Neutral,Neutral,High,,SIP,0.475217330395314,1
+L00087,40,Tier-1,Salaried,41.0,12.2,,Cold-call,104,6,Positive,Positive,Low,,Unclear,0.0975430091806592,0
+L00088,45,Tier-2,Other,61.0,38.2,"Insurance, PMS, MF",Event,21,1,Neutral,Positive,Medium,,PMS,0.5944040542554762,0
+L00089,50,Tier-1,Salaried,12.0,10.0,"FD, Direct Equity",Digital,73,3,Neutral,Neutral,Low,,SIP,0.007244682493291,0
+L00090,49,Tier-2,Salaried,37.2,17.2,,Referral,68,7,None-yet,Neutral,High,,MF,0.0751327230041955,0
+L00091,52,Tier-2,Salaried,31.4,17.9,,Digital,21,3,Neutral,Neutral,Medium,,MF,0.1127147000449597,0
+L00092,44,Tier-3,Self-employed,46.5,23.4,Insurance,Event,18,2,Positive,Positive,Medium,,MF,0.9557766796017474,1
+L00093,41,Tier-3,Retired,36.3,8.6,,Cold-call,53,1,Objection,Negative,Medium,Pricing,MF,0.0001995907668901,0
+L00094,44,Tier-1,Other,13.2,7.8,"AIF, PMS",Referral,1,6,None-yet,Neutral,Low,,MF,0.6792152776673038,0
+L00095,28,Tier-2,Salaried,15.1,11.1,,Digital,58,11,No-show,Negative,High,Pricing,Unclear,0.0130306963811707,0
+L00096,31,Tier-2,Salaried,37.4,10.0,,Digital,13,6,None-yet,Positive,Medium,,PMS,0.766609508496423,0
+L00097,32,Tier-1,Business owner,75.2,23.5,Insurance,Digital,9,2,None-yet,Neutral,Low,,MF,0.0484410499555551,0
+L00098,35,Tier-1,Salaried,10.0,1.0,"Direct Equity, Insurance",Referral,11,7,Objection,Neutral,Medium,,MF,0.032534524884047,0
+L00099,49,Tier-1,Retired,46.6,21.0,,Existing-client-family,83,4,None-yet,Neutral,Low,,SIP,0.2717862659530647,1
+L00100,36,Tier-2,Business owner,84.2,59.9,MF,Referral,99,7,Positive,Positive,High,,Unclear,0.8056327339057119,0
+L00101,41,Tier-1,Salaried,32.9,31.9,AIF,Referral,21,7,None-yet,Neutral,High,,PMS,0.3309188425096938,1
+L00102,58,Tier-3,Business owner,53.8,6.2,"MF, Direct Equity, AIF",Referral,47,5,None-yet,Neutral,Medium,,SIP,0.1905885989747023,0
+L00103,41,Tier-1,Salaried,22.4,5.3,,Cold-call,180,3,None-yet,Neutral,Medium,,AIF,0.0406620746759156,0
+L00104,52,Tier-3,Salaried,33.7,4.9,"Insurance, PMS, Direct Equity",Digital,8,5,Neutral,Negative,High,Timing,SIP,0.0459442895439263,0
+L00105,36,Tier-1,Self-employed,11.8,2.9,"Insurance, MF, AIF",Referral,35,3,No-show,Neutral,Medium,,SIP,0.0187647976009323,0
+L00106,43,Tier-2,Self-employed,10.0,1.0,PMS,Digital,10,7,Positive,Positive,High,,PMS,0.158084438629404,0
+L00107,35,Tier-1,Business owner,70.8,4.3,FD,Cold-call,122,3,Objection,Negative,Medium,Trust,Unclear,0.000243198783333,0
+L00108,42,Tier-2,Business owner,18.4,4.4,"PMS, MF",Digital,3,0,Neutral,Neutral,Low,,SIP,0.0038809002601993,0
+L00109,53,Tier-2,Other,26.6,1.7,Insurance,Existing-client-family,3,1,Objection,Neutral,Medium,,SIP,0.0042490782760632,0
+L00110,28,Tier-3,Other,13.9,1.9,MF,Digital,22,8,Objection,Negative,High,Pricing,MF,0.0818617437624354,0
+L00111,49,Tier-2,Self-employed,13.6,8.3,,Referral,5,7,Neutral,Neutral,High,,SIP,0.090284619888647,0
+L00112,47,Tier-1,Salaried,32.4,5.7,,Existing-client-family,16,0,Neutral,Neutral,Medium,,MF,0.5736799088228591,1
+L00113,39,Tier-1,Business owner,22.0,1.0,AIF,Event,72,3,Neutral,Positive,Low,,MF,0.0795012575044256,0
+L00114,31,Tier-1,Other,47.7,25.5,,Digital,18,4,Objection,Negative,Medium,Trust,MF,0.0026306813021965,0
+L00115,46,Tier-1,Salaried,50.2,25.3,MF,Event,1,1,Objection,Neutral,Low,,PMS,0.0035110456928909,0
+L00116,40,Tier-2,Self-employed,45.8,25.9,,Digital,152,4,No-show,Negative,Low,Competitor,MF,0.0308893041504421,0
+L00117,47,Tier-2,Salaried,43.3,15.5,"PMS, Insurance, FD",Digital,6,5,Positive,Positive,Medium,,MF,0.5153485702284916,1
+L00118,45,Tier-2,Salaried,110.4,89.9,"MF, FD",Event,34,2,None-yet,Neutral,Low,,PMS,0.7152881630292746,0
+L00119,61,Tier-3,Business owner,17.3,5.1,"MF, PMS",Event,34,2,Objection,Neutral,Low,,MF,0.00820963957989,0
+L00120,43,Tier-2,Salaried,35.2,8.3,FD,Digital,20,5,Positive,Positive,Medium,,SIP,0.8649898045447305,1
+L00121,35,Tier-2,Business owner,80.9,41.6,,Cold-call,0,5,Neutral,Neutral,High,,MF,0.261790700776507,0
+L00122,47,Tier-1,Business owner,88.7,45.5,,Digital,26,4,Neutral,Neutral,Medium,,PMS,0.0146809264052564,0
+L00123,47,Tier-1,Business owner,13.5,1.0,"Direct Equity, PMS, AIF",Referral,13,3,Neutral,Neutral,High,,SIP,0.3069285344411691,1
+L00124,59,Tier-2,Salaried,29.4,19.0,PMS,Existing-client-family,49,3,Positive,Neutral,Low,,PMS,0.3266845178532654,0
+L00125,53,Tier-3,Salaried,94.7,25.6,"AIF, FD",Digital,2,1,Neutral,Positive,Low,,PMS,0.0523564111835881,0
+L00126,49,Tier-1,Business owner,52.2,26.7,,Cold-call,59,7,Positive,Positive,High,,Unclear,0.3696188033596914,1
+L00127,60,Tier-2,Business owner,42.0,18.0,,Cold-call,47,4,Positive,Neutral,Low,,MF,0.2417922296349568,0
+L00128,33,Tier-2,Self-employed,31.4,18.6,AIF,Cold-call,48,6,Neutral,Negative,Medium,Timing,AIF,0.0621831092954623,0
+L00129,39,Tier-1,Retired,28.0,3.6,"Direct Equity, FD",Digital,49,4,None-yet,Neutral,Medium,,SIP,0.0225921070977854,0
+L00130,36,Tier-1,Salaried,44.8,14.6,AIF,Existing-client-family,121,6,Objection,Negative,Medium,Timing,PMS,0.072484462989647,0
+L00131,41,Tier-3,Retired,30.7,13.2,AIF,Cold-call,5,3,Neutral,Neutral,High,,Unclear,0.0530713989826693,0
+L00132,31,Tier-2,Salaried,35.5,8.4,Insurance,Cold-call,3,3,Objection,Negative,High,Competitor,Unclear,0.0019178751878529,0
+L00133,51,Tier-1,Salaried,38.7,11.0,Direct Equity,Digital,3,1,Objection,Neutral,Medium,,SIP,0.0031965369193593,0
+L00134,43,Tier-3,Self-employed,22.8,10.9,"Insurance, Direct Equity, AIF",Digital,32,3,Positive,Positive,Medium,,SIP,0.5786925782071075,0
+L00135,30,Tier-1,Salaried,53.1,9.3,,Referral,5,8,Neutral,Neutral,High,,MF,0.9771017989483616,1
+L00136,35,Tier-3,Salaried,281.5,59.1,Direct Equity,Digital,33,2,Neutral,Neutral,Medium,,AIF,0.042436979242832,0
+L00137,48,Tier-1,Salaried,10.5,7.2,Insurance,Referral,36,7,Objection,Negative,Low,Pricing,SIP,0.0179178199055213,0
+L00138,53,Tier-2,Salaried,45.9,17.2,"PMS, AIF",Cold-call,5,3,Neutral,Neutral,Medium,,SIP,0.0080992839650824,0
+L00139,65,Tier-1,Business owner,21.5,1.0,"Direct Equity, Insurance",Event,72,3,Neutral,Neutral,Medium,,MF,0.388709280205499,0
+L00140,70,Tier-1,Salaried,54.8,14.8,Direct Equity,Digital,19,5,Objection,Negative,Medium,Competitor,Unclear,0.0514986098853017,0
+L00141,49,Tier-3,Business owner,37.8,6.4,PMS,Digital,50,9,None-yet,Neutral,Medium,,SIP,0.2590219249517397,0
+L00142,35,Tier-1,Business owner,62.4,24.7,"Direct Equity, Insurance",Cold-call,51,5,Neutral,Positive,High,,Unclear,0.6917904040950927,1
+L00143,25,Tier-1,Salaried,83.3,4.7,,Referral,8,7,Objection,Neutral,High,,SIP,0.037683551962083,0
+L00144,48,Tier-1,Salaried,41.9,12.8,Insurance,Existing-client-family,100,1,Neutral,Neutral,Low,,Unclear,0.783183243093611,1
+L00145,37,Tier-2,Retired,80.8,13.0,"MF, PMS",Digital,14,5,No-show,Neutral,High,,PMS,0.0111811977914326,0
+L00146,41,Tier-2,Business owner,10.0,1.0,,Referral,144,4,No-show,Negative,High,Competitor,SIP,0.1133867695146772,0
+L00147,39,Tier-3,Self-employed,111.4,39.5,,Referral,4,3,No-show,Negative,Medium,Trust,AIF,0.2858139068932321,0
+L00148,44,Tier-1,Business owner,47.6,15.1,,Existing-client-family,1,3,Neutral,Neutral,High,,AIF,0.1324600529849425,0
+L00149,56,Tier-1,Salaried,77.8,5.3,,Referral,9,7,Neutral,Positive,High,,PMS,0.774121899308399,1
+L00150,47,Tier-1,Salaried,15.6,7.6,"AIF, FD",Cold-call,27,5,None-yet,Neutral,Medium,,MF,0.0037553783820664,0
+L00151,43,Tier-2,Business owner,20.5,6.6,,Referral,33,4,Neutral,Negative,Medium,Timing,Unclear,0.0101310585664553,0
+L00152,35,Tier-3,Salaried,40.5,16.2,PMS,Referral,47,5,None-yet,Negative,Low,Trust,AIF,0.0110040181521603,0
+L00153,28,Tier-2,Business owner,36.2,21.0,,Event,40,4,Neutral,Neutral,High,,SIP,0.0222210333170595,0
+L00154,40,Tier-2,Self-employed,44.6,11.1,,Referral,17,2,Neutral,Neutral,Low,,SIP,0.0424848907071107,1
+L00155,44,Tier-1,Business owner,78.2,45.3,AIF,Referral,55,3,Neutral,Positive,High,,Unclear,0.5976623661832,1
+L00156,63,Tier-3,Self-employed,10.6,1.0,,Digital,3,1,Neutral,Neutral,Low,,MF,0.2976372470126409,0
+L00157,46,Tier-1,Salaried,72.4,5.9,"PMS, MF",Event,1,3,None-yet,Negative,High,Timing,Unclear,0.0210360408876971,0
+L00158,55,Tier-1,Salaried,36.8,15.7,"PMS, Insurance",Digital,6,4,Positive,Neutral,High,,MF,0.1322016192055088,0
+L00159,40,Tier-1,Salaried,31.7,9.5,,Referral,6,7,Objection,Neutral,Medium,,SIP,0.1095887113585071,0
+L00160,33,Tier-1,Business owner,13.1,1.0,"AIF, Direct Equity, FD",Existing-client-family,22,8,Objection,Negative,High,Trust,MF,0.0148318041635922,0
+L00161,35,Tier-1,Salaried,52.0,8.3,,Cold-call,41,2,None-yet,Negative,Low,Pricing,SIP,0.0040111621067126,0
+L00162,38,Tier-1,Salaried,10.0,7.3,MF,Event,170,5,Objection,Negative,Medium,Pricing,MF,0.0086332867951953,0
+L00163,66,Tier-1,Salaried,57.6,13.0,"PMS, Direct Equity",Event,12,1,None-yet,Neutral,Low,,Unclear,0.1084172444827923,0
+L00164,37,Tier-2,Salaried,12.9,2.7,FD,Cold-call,41,1,None-yet,Negative,Medium,Timing,AIF,0.0013720511487698,0
+L00165,53,Tier-1,Business owner,38.0,14.6,,Digital,7,5,Neutral,Neutral,High,,SIP,0.044459275187041,0
+L00166,36,Tier-1,Salaried,33.7,10.5,,Digital,2,6,None-yet,Positive,Medium,,AIF,0.3571765072157163,0
+L00167,54,Tier-3,Other,83.0,81.4,,Cold-call,1,2,None-yet,Positive,Low,,PMS,0.0681947206990745,0
+L00168,49,Tier-2,Salaried,32.3,9.9,Direct Equity,Cold-call,58,4,Neutral,Negative,Low,Timing,MF,0.0049542243445073,0
+L00169,43,Tier-2,Business owner,22.5,5.1,Insurance,Existing-client-family,177,3,Objection,Negative,Medium,Pricing,SIP,0.0241971464047498,0
+L00170,45,Tier-1,Salaried,25.7,10.0,,Cold-call,122,5,Neutral,Neutral,Medium,,MF,0.0260599502719365,0
+L00171,38,Tier-3,Salaried,89.2,30.3,PMS,Digital,26,7,Objection,Negative,Low,Competitor,AIF,0.0040522919729221,0
+L00172,49,Tier-1,Retired,53.3,3.8,Insurance,Digital,2,2,Positive,Positive,Medium,,MF,0.709170003254769,1
+L00173,40,Tier-1,Other,27.9,11.2,FD,Cold-call,8,3,No-show,Neutral,Low,,SIP,0.0079110880902659,0
+L00174,33,Tier-3,Retired,31.0,8.4,PMS,Digital,71,5,Neutral,Negative,Medium,Competitor,MF,0.0030112483752168,0
+L00175,32,Tier-2,Salaried,12.2,3.9,Direct Equity,Event,11,1,Objection,Negative,Low,Timing,SIP,0.0127811092706627,0
+L00176,47,Tier-2,Salaried,48.0,18.4,,Cold-call,39,1,Positive,Positive,Medium,,MF,0.0770050198041217,0
+L00177,61,Tier-2,Business owner,10.7,1.0,AIF,Referral,16,6,Objection,Negative,Medium,Competitor,Unclear,0.5226386460436176,1
+L00178,47,Tier-2,Salaried,61.9,9.0,AIF,Cold-call,32,4,Neutral,Negative,High,Competitor,SIP,0.0110684501611698,0
+L00179,44,Tier-1,Business owner,40.0,18.0,"PMS, MF",Cold-call,73,6,Objection,Negative,Medium,Pricing,MF,0.0013543948601577,0
+L00180,48,Tier-1,Self-employed,194.6,17.9,,Existing-client-family,26,2,Neutral,Positive,Low,,MF,0.780155797551023,1
+L00181,58,Tier-1,Self-employed,16.9,15.1,Direct Equity,Digital,180,4,Positive,Positive,Medium,,AIF,0.839152090365734,1
+L00182,47,Tier-1,Business owner,34.1,9.1,"FD, PMS, Direct Equity",Cold-call,21,1,Neutral,Neutral,Low,,Unclear,0.1362610527130814,1
+L00183,41,Tier-3,Business owner,128.9,16.9,Insurance,Digital,20,5,None-yet,Neutral,Medium,,MF,0.1047435367513884,0
+L00184,56,Tier-1,Salaried,84.3,40.2,PMS,Digital,30,6,Neutral,Negative,Medium,Pricing,Unclear,0.1721621372411382,0
+L00185,49,Tier-2,Salaried,22.5,9.7,MF,Referral,3,1,Objection,Neutral,Low,,SIP,0.1539393685397825,0
+L00186,60,Tier-2,Self-employed,42.8,10.4,PMS,Event,73,8,Positive,Positive,High,,MF,0.6840318140589424,1
+L00187,47,Tier-2,Self-employed,36.6,8.6,"Insurance, FD",Existing-client-family,21,3,No-show,Negative,Medium,Competitor,Unclear,0.0065329248035018,0
+L00188,33,Tier-1,Salaried,44.6,12.9,,Digital,54,3,Neutral,Neutral,Low,,MF,0.04684508098975,0
+L00189,31,Tier-1,Salaried,22.4,1.0,,Cold-call,35,3,Neutral,Negative,Low,Pricing,MF,0.0001318804597494,0
+L00190,62,Tier-3,Business owner,34.4,23.1,"AIF, MF",Referral,40,1,Neutral,Neutral,Low,,PMS,0.1037104925226924,0
+L00191,62,Tier-2,Business owner,12.0,9.5,AIF,Cold-call,44,1,Positive,Neutral,High,,MF,0.3637999763179784,1
+L00192,43,Tier-2,Self-employed,40.2,20.6,,Digital,13,5,Neutral,Neutral,Medium,,MF,0.0870410596501595,0
+L00193,41,Tier-3,Salaried,50.1,22.3,Direct Equity,Cold-call,72,5,Neutral,Positive,Low,,PMS,0.081613467208421,0
+L00194,60,Tier-2,Salaried,31.2,13.6,,Referral,0,1,Objection,Neutral,Low,,SIP,0.0132231968999495,0
+L00195,34,Tier-1,Self-employed,11.8,1.0,,Cold-call,3,6,None-yet,Positive,Medium,,Unclear,0.0136795164849937,0
+L00196,36,Tier-2,Salaried,73.1,8.5,MF,Digital,60,6,Neutral,Positive,Medium,,Unclear,0.0990122098546826,0
+L00197,51,Tier-1,Self-employed,47.2,19.1,"Direct Equity, FD, PMS",Cold-call,123,2,None-yet,Positive,High,,SIP,0.0059555271429196,0
+L00198,41,Tier-2,Business owner,22.0,1.9,"MF, FD",Cold-call,13,4,Neutral,Positive,Medium,,Unclear,0.0038499473102528,0
+L00199,45,Tier-3,Salaried,30.1,9.0,Direct Equity,Referral,7,6,Positive,Positive,Medium,,SIP,0.9584806823616728,1
+L00200,43,Tier-2,Salaried,12.8,6.0,Insurance,Digital,30,2,Neutral,Neutral,Low,,MF,0.4082140090308727,0
+L00201,48,Tier-1,Salaried,17.9,8.1,,Event,7,5,Neutral,Negative,Medium,Competitor,SIP,0.0127789248091519,0
+L00202,59,Tier-1,Retired,25.1,7.8,"Insurance, MF",Cold-call,1,3,Neutral,Positive,Medium,,Unclear,0.2301453779375682,1
+L00203,46,Tier-3,Self-employed,86.5,16.4,,Referral,30,3,None-yet,Negative,High,Timing,SIP,0.0101793126787455,0
+L00204,51,Tier-1,Salaried,23.4,6.0,,Digital,5,6,Objection,Negative,High,Competitor,MF,0.0052391279010585,0
+L00205,25,Tier-1,Retired,57.3,39.2,PMS,Digital,42,3,Objection,Positive,High,,AIF,0.009334863085736,0
+L00206,45,Tier-1,Self-employed,25.1,14.2,,Cold-call,21,2,Neutral,Neutral,High,,SIP,0.0625443945635212,0
+L00207,37,Tier-1,Self-employed,43.5,5.9,"Insurance, Direct Equity",Cold-call,119,3,Neutral,Neutral,Medium,,SIP,0.020965369353837,0
+L00208,33,Tier-1,Retired,33.1,5.8,"Direct Equity, PMS",Referral,37,4,Objection,Negative,Low,Competitor,SIP,0.0024956926144037,0
+L00209,36,Tier-2,Salaried,67.4,20.2,,Cold-call,55,5,Positive,Positive,High,,SIP,0.4433591373519217,1
+L00210,42,Tier-1,Salaried,25.2,13.6,Insurance,Cold-call,28,6,Positive,Neutral,Medium,,SIP,0.6530508883061834,1
+L00211,54,Tier-1,Self-employed,12.2,1.0,"FD, Insurance",Event,47,1,Neutral,Neutral,Low,,MF,0.0818527803534857,0
+L00212,32,Tier-1,Salaried,13.9,4.5,"AIF, MF",Referral,75,6,Positive,Positive,Medium,,SIP,0.8333500978197612,1
+L00213,45,Tier-1,Business owner,25.2,5.1,Insurance,Digital,30,2,Objection,Negative,Medium,Pricing,MF,0.0043246030256643,0
+L00214,40,Tier-1,Salaried,15.3,9.6,Direct Equity,Digital,30,4,Positive,Positive,Low,,MF,0.5405484334597801,1
+L00215,42,Tier-2,Salaried,48.8,23.5,"Insurance, MF",Referral,8,7,Positive,Negative,High,Timing,SIP,0.8607611580071315,1
+L00216,55,Tier-1,Salaried,26.4,4.5,FD,Digital,1,6,None-yet,Positive,Medium,,SIP,0.5002327894849726,1
+L00217,50,Tier-1,Salaried,192.9,64.4,Insurance,Referral,14,2,None-yet,Positive,Low,,SIP,0.1109264331258721,0
+L00218,58,Tier-1,Salaried,10.8,4.1,"Insurance, PMS",Referral,33,2,Neutral,Positive,Low,,Unclear,0.8387995796465587,1
+L00219,43,Tier-1,Salaried,42.2,21.5,"PMS, Direct Equity, AIF",Cold-call,65,4,Neutral,Neutral,Medium,,SIP,0.0195067905386628,0
+L00220,38,Tier-1,Retired,16.6,2.3,,Digital,30,2,No-show,Negative,Low,Pricing,SIP,0.0423866342694355,0
+L00221,43,Tier-1,Salaried,25.9,1.8,Direct Equity,Cold-call,126,4,Positive,Negative,Medium,Pricing,MF,0.0407923425218262,0
+L00222,47,Tier-3,Salaried,40.4,21.4,"PMS, MF",Referral,44,6,Neutral,Negative,High,Pricing,PMS,0.4070078037780182,0
+L00223,47,Tier-1,Salaried,10.0,2.9,MF,Cold-call,79,2,Positive,Positive,High,,SIP,0.1320970804814617,0
+L00224,34,Tier-2,Salaried,43.2,8.0,,Digital,180,0,Neutral,Positive,Low,,MF,0.0113795130197468,0
+L00225,46,Tier-1,Salaried,138.7,48.1,,Event,106,6,None-yet,Neutral,Low,,AIF,0.1446981440670068,0
+L00226,47,Tier-1,Self-employed,26.6,12.2,,Event,134,5,No-show,Negative,Low,Competitor,MF,0.0286517492734799,0
+L00227,70,Tier-1,Salaried,43.9,12.1,MF,Digital,24,3,None-yet,Negative,High,Pricing,SIP,0.0522163719530028,0
+L00228,64,Tier-2,Retired,75.0,25.6,,Cold-call,8,6,No-show,Negative,Low,Timing,SIP,0.0110140768140263,0
+L00229,36,Tier-2,Retired,32.6,11.7,PMS,Referral,19,0,Objection,Negative,Medium,Timing,MF,0.0215449851838247,0
+L00230,42,Tier-1,Salaried,24.4,2.4,FD,Cold-call,4,3,No-show,Negative,Medium,Competitor,MF,0.0061396153282386,0
+L00231,30,Tier-1,Salaried,10.0,6.5,,Referral,6,3,Objection,Neutral,High,,MF,0.0124326633572191,0
+L00232,39,Tier-1,Salaried,57.3,14.7,"MF, Direct Equity",Digital,1,5,Neutral,Neutral,Medium,,SIP,0.0832061998493256,1
+L00233,48,Tier-1,Self-employed,33.8,7.0,MF,Referral,0,7,Neutral,Positive,Medium,,MF,0.1538980831541917,1
+L00234,57,Tier-2,Salaried,18.0,7.0,,Event,104,10,Objection,Negative,High,Timing,Unclear,0.0040083981306449,0
+L00235,38,Tier-1,Retired,40.0,16.2,"AIF, PMS",Digital,157,7,Neutral,Positive,High,,MF,0.1108607787401574,0
+L00236,38,Tier-1,Business owner,24.3,11.6,"Direct Equity, PMS, Insurance",Cold-call,50,6,Neutral,Positive,Low,,MF,0.1105191922624257,1
+L00237,25,Tier-3,Business owner,25.3,5.6,,Digital,39,2,Positive,Positive,Medium,,SIP,0.7287711538234216,1
+L00238,43,Tier-1,Self-employed,55.9,57.1,,Digital,30,4,Objection,Negative,Medium,Timing,SIP,0.0091284538159018,0
+L00239,34,Tier-1,Other,14.3,8.4,MF,Referral,164,4,Neutral,Positive,High,,SIP,0.0131081554616686,0
+L00240,40,Tier-2,Salaried,76.2,46.6,,Existing-client-family,17,4,Neutral,Neutral,Medium,,Unclear,0.8305690683229705,1
+L00241,36,Tier-1,Salaried,13.8,6.6,"MF, AIF, PMS",Event,68,5,Neutral,Negative,Low,Timing,MF,0.0481441452183808,0
+L00242,44,Tier-1,Salaried,23.0,11.4,"AIF, FD",Referral,12,4,Positive,Positive,High,,SIP,0.9352926971036142,1
+L00243,27,Tier-1,Retired,140.6,78.2,PMS,Cold-call,13,2,None-yet,Neutral,Medium,,AIF,0.0142200802417037,0
+L00244,30,Tier-3,Self-employed,80.6,34.3,,Digital,55,5,Neutral,Positive,Medium,,Unclear,0.4761835791174602,1
+L00245,66,Tier-1,Business owner,39.2,6.5,PMS,Referral,65,6,Neutral,Positive,Low,,Unclear,0.8838356351807888,1
+L00246,32,Tier-1,Salaried,18.9,5.0,Insurance,Digital,6,6,Positive,Positive,Medium,,Unclear,0.1341689054592844,1
+L00247,34,Tier-1,Other,25.3,14.0,,Referral,48,9,None-yet,Positive,Low,,SIP,0.8133578322808335,1
+L00248,63,Tier-1,Self-employed,38.5,11.9,Insurance,Referral,45,5,Objection,Negative,High,Pricing,SIP,0.006126449237556,0
+L00249,70,Tier-2,Self-employed,37.6,8.7,"Insurance, MF",Cold-call,10,3,Neutral,Neutral,Medium,,MF,0.010151923637179,0
+L00250,33,Tier-1,Other,34.3,12.3,MF,Digital,115,3,Neutral,Neutral,Medium,,Unclear,0.0589650781572993,0
+L00251,41,Tier-2,Salaried,35.8,2.4,"Insurance, Direct Equity",Event,31,4,No-show,Negative,Low,Trust,AIF,0.1993784466374498,0
+L00252,48,Tier-2,Salaried,31.5,11.9,FD,Cold-call,19,3,None-yet,Positive,High,,MF,0.0042488663989436,0
+L00253,62,Tier-2,Self-employed,13.3,2.5,,Event,19,5,Neutral,Neutral,High,,SIP,0.0316481692650794,0
+L00254,35,Tier-1,Salaried,25.5,1.0,MF,Cold-call,19,1,Positive,Positive,High,,MF,0.2652849184727924,1
+L00255,43,Tier-3,Salaried,69.4,14.4,"FD, PMS",Event,2,6,Positive,Negative,High,Pricing,Unclear,0.362155430093857,1
+L00256,53,Tier-2,Salaried,14.0,1.4,,Digital,63,3,Positive,Positive,Low,,MF,0.3241821060639415,0
+L00257,49,Tier-1,Salaried,32.1,13.8,FD,Digital,133,3,No-show,Neutral,Medium,,Unclear,0.0271934694213645,0
+L00258,41,Tier-2,Retired,20.6,6.0,AIF,Digital,97,4,None-yet,Negative,Medium,Pricing,Unclear,0.0024930873870334,0
+L00259,44,Tier-3,Self-employed,39.6,4.6,Insurance,Existing-client-family,21,3,None-yet,Positive,Medium,,MF,0.7500593795180822,0
+L00260,31,Tier-1,Salaried,27.9,22.4,"FD, Insurance",Referral,57,8,No-show,Neutral,High,,SIP,0.4725833658976334,1
+L00261,43,Tier-3,Salaried,102.9,51.6,PMS,Cold-call,18,7,Positive,Positive,High,,SIP,0.19706944686658,0
+L00262,42,Tier-1,Salaried,52.2,15.0,Insurance,Event,7,1,None-yet,Neutral,Medium,,AIF,0.0304785212136065,0
+L00263,47,Tier-2,Self-employed,14.6,5.7,AIF,Digital,21,4,Neutral,Negative,Low,Timing,SIP,0.0331296431879839,0
+L00264,39,Tier-3,Retired,58.5,14.2,PMS,Event,21,1,Neutral,Neutral,Low,,SIP,0.1313908906031795,0
+L00265,50,Tier-1,Retired,21.3,5.9,,Digital,9,4,Objection,Negative,Low,Pricing,MF,0.0062407067206254,0
+L00266,55,Tier-2,Salaried,24.4,7.0,,Referral,23,1,Positive,Positive,Low,,Unclear,0.3374088047111002,0
+L00267,47,Tier-1,Salaried,45.6,29.0,"MF, Direct Equity",Cold-call,27,5,None-yet,Neutral,High,,MF,0.0200958196501137,0
+L00268,49,Tier-2,Self-employed,25.9,13.9,Insurance,Digital,13,4,None-yet,Neutral,Medium,,MF,0.0331082172079423,0
+L00269,46,Tier-2,Self-employed,68.4,21.0,,Referral,2,7,No-show,Neutral,High,,PMS,0.4764968258147476,0
+L00270,45,Tier-1,Self-employed,21.3,6.4,"Insurance, PMS",Referral,11,4,No-show,Negative,Medium,Trust,SIP,0.0358515295297078,0
+L00271,38,Tier-1,Business owner,23.7,7.1,"MF, FD",Referral,92,3,Neutral,Negative,High,Competitor,MF,0.0425365398290675,0
+L00272,48,Tier-1,Self-employed,23.1,6.0,,Event,37,5,Positive,Positive,Medium,,Unclear,0.2649166583179456,1
+L00273,44,Tier-1,Salaried,24.6,13.4,,Event,17,2,No-show,Negative,High,Competitor,PMS,0.0093238492744747,0
+L00274,66,Tier-1,Salaried,79.0,5.3,AIF,Digital,13,3,Objection,Positive,Medium,,MF,0.1564849053203989,0
+L00275,61,Tier-1,Salaried,56.8,8.4,"MF, AIF, PMS",Referral,46,7,None-yet,Negative,High,Competitor,Unclear,0.0111054574760935,0
+L00276,49,Tier-1,Salaried,121.1,69.7,,Digital,9,3,Positive,Positive,Low,,Unclear,0.7393092473541665,1
+L00277,37,Tier-1,Salaried,179.0,103.9,"Direct Equity, Insurance, PMS",Event,11,3,Neutral,Negative,Medium,Trust,AIF,0.2194797426812485,1
+L00278,34,Tier-2,Business owner,17.8,5.9,,Cold-call,79,5,Neutral,Negative,Medium,Timing,SIP,0.0802354343739263,0
+L00279,57,Tier-2,Salaried,38.4,8.6,"Insurance, AIF",Digital,26,5,Objection,Negative,Medium,Trust,SIP,0.0131252749074721,0
+L00280,48,Tier-2,Salaried,16.1,2.1,FD,Referral,8,2,No-show,Negative,Low,Trust,SIP,0.1454026989106048,0
+L00281,50,Tier-1,Self-employed,21.2,4.0,Insurance,Existing-client-family,1,3,None-yet,Neutral,Low,,SIP,0.2566613314453079,0
+L00282,28,Tier-3,Business owner,23.5,1.0,,Event,151,7,Neutral,Negative,Medium,Trust,MF,0.0026986140145297,0
+L00283,54,Tier-2,Salaried,17.5,7.3,,Referral,0,4,Neutral,Negative,Medium,Pricing,MF,0.0106783642875699,0
+L00284,50,Tier-1,Business owner,17.5,11.6,,Event,33,4,Positive,Neutral,High,,PMS,0.1308342961179961,0
+L00285,34,Tier-1,Retired,33.1,10.5,,Referral,46,3,Neutral,Neutral,Medium,,SIP,0.2001896548755268,0
+L00286,40,Tier-2,Self-employed,15.6,5.0,,Referral,35,1,Neutral,Neutral,Low,,SIP,0.0993194456584938,1
+L00287,48,Tier-1,Business owner,66.0,32.8,"Direct Equity, PMS, AIF",Event,21,2,Objection,Negative,High,Timing,SIP,0.0050481608430078,0
+L00288,46,Tier-2,Salaried,19.3,5.8,,Digital,83,5,Neutral,Negative,Medium,Timing,Unclear,0.1534350852934106,0
+L00289,42,Tier-3,Retired,261.6,77.8,AIF,Digital,92,2,Neutral,Neutral,Medium,,SIP,0.0044570322499429,0
+L00290,44,Tier-1,Salaried,26.7,18.7,,Existing-client-family,22,3,Objection,Negative,Low,Competitor,SIP,0.0050311780746497,0
+L00291,42,Tier-1,Retired,38.5,18.1,,Event,31,4,None-yet,Negative,Medium,Pricing,AIF,0.4075207982047329,1
+L00292,47,Tier-3,Self-employed,14.8,2.1,Direct Equity,Referral,31,3,Neutral,Positive,Medium,,SIP,0.5314165532233407,1
+L00293,60,Tier-2,Salaried,120.8,48.0,"PMS, AIF, Insurance",Cold-call,48,7,Neutral,Positive,Low,,PMS,0.0962676011013604,0
+L00294,25,Tier-1,Salaried,80.1,26.9,,Event,9,5,No-show,Neutral,Medium,,MF,0.0097060773011626,0
+L00295,43,Tier-3,Business owner,45.1,14.5,,Cold-call,3,5,No-show,Negative,High,Timing,PMS,0.0085706611368893,0
+L00296,47,Tier-3,Self-employed,14.3,10.0,"PMS, FD",Existing-client-family,23,7,None-yet,Positive,High,,MF,0.749350787405974,0
+L00297,48,Tier-2,Salaried,42.4,2.7,Insurance,Cold-call,5,2,Neutral,Neutral,Medium,,MF,0.0734043049480288,0
+L00298,41,Tier-2,Business owner,16.7,8.4,,Referral,27,3,Objection,Negative,High,Competitor,PMS,0.0020721929585393,0
+L00299,27,Tier-1,Retired,101.9,31.1,"MF, AIF, Insurance",Referral,68,3,None-yet,Neutral,Medium,,PMS,0.2942181969441995,1
+L00300,48,Tier-1,Self-employed,64.5,5.5,"FD, PMS, Direct Equity",Event,26,3,Neutral,Neutral,Low,,Unclear,0.061135339200299,0
+L00301,62,Tier-2,Self-employed,39.1,4.8,"AIF, FD",Existing-client-family,32,5,Neutral,Neutral,Medium,,AIF,0.4037733957104462,0
+L00302,30,Tier-1,Salaried,10.0,1.0,"Insurance, MF, PMS",Referral,38,6,None-yet,Neutral,High,,MF,0.0243355466468409,0
+L00303,54,Tier-2,Business owner,18.4,1.0,Insurance,Referral,57,4,Positive,Positive,Medium,,SIP,0.9128271623811448,1
+L00304,42,Tier-2,Salaried,59.2,21.8,"FD, PMS",Event,36,4,No-show,Negative,Medium,Trust,MF,0.1149086392266356,0
+L00305,44,Tier-1,Retired,85.5,33.9,,Referral,23,4,None-yet,Neutral,Low,,AIF,0.0384137343587798,0
+L00306,34,Tier-2,Salaried,79.6,19.0,,Referral,22,2,Positive,Positive,Low,,MF,0.9316940651791,1
+L00307,42,Tier-1,Self-employed,12.0,2.2,FD,Event,9,1,No-show,Negative,Medium,Timing,SIP,0.0841621291750106,0
+L00308,58,Tier-3,Salaried,45.2,4.3,FD,Event,23,11,Neutral,Negative,Medium,Trust,MF,0.15189955990817,0
+L00309,51,Tier-1,Salaried,74.5,34.1,,Event,60,8,None-yet,Neutral,High,,PMS,0.1009616527563133,0
+L00310,62,Tier-2,Business owner,11.5,6.7,,Cold-call,21,3,None-yet,Positive,Low,,MF,0.0453659284621314,0
+L00311,57,Tier-2,Self-employed,36.4,7.1,FD,Digital,18,4,None-yet,Neutral,Medium,,SIP,0.0200085512407924,0
+L00312,49,Tier-1,Self-employed,44.3,11.9,,Existing-client-family,34,10,Positive,Positive,Low,,AIF,0.9139468660129796,1
+L00313,62,Tier-2,Other,29.7,12.7,Direct Equity,Digital,7,5,No-show,Neutral,Low,,SIP,0.0060413584876509,0
+L00314,49,Tier-2,Other,10.0,2.1,"Direct Equity, PMS",Digital,4,4,None-yet,Neutral,Medium,,SIP,0.0421792173789166,0
+L00315,53,Tier-2,Retired,29.1,5.6,"MF, FD, Insurance",Event,53,7,Objection,Negative,Medium,Pricing,Unclear,0.0023272943212829,0
+L00316,42,Tier-2,Salaried,29.1,9.5,,Cold-call,14,0,Objection,Negative,Medium,Trust,MF,0.0001356491854282,0
+L00317,46,Tier-3,Self-employed,33.0,3.8,FD,Event,12,3,Positive,Neutral,High,,Unclear,0.7835035790223591,1
+L00318,38,Tier-1,Retired,24.7,9.7,,Referral,83,6,None-yet,Negative,Medium,Timing,SIP,0.0037545075083385,0
+L00319,55,Tier-2,Salaried,26.8,6.8,Insurance,Existing-client-family,98,10,Positive,Neutral,High,,SIP,0.9723988948674468,1
+L00320,33,Tier-1,Salaried,35.6,9.0,FD,Cold-call,28,5,Neutral,Positive,Medium,,MF,0.0037482366308275,0
+L00321,53,Tier-2,Business owner,49.9,28.2,,Cold-call,40,3,None-yet,Negative,Medium,Trust,SIP,0.0220362898161591,0
+L00322,43,Tier-2,Self-employed,29.6,12.2,Insurance,Existing-client-family,137,4,None-yet,Neutral,Low,,SIP,0.2588074554255061,0
+L00323,57,Tier-1,Self-employed,27.5,8.2,,Digital,21,4,None-yet,Neutral,Medium,,SIP,0.0036452246367094,0
+L00324,53,Tier-1,Other,39.0,14.2,"PMS, FD, AIF",Cold-call,80,5,Neutral,Negative,High,Timing,SIP,0.0037803190576687,0
+L00325,63,Tier-3,Self-employed,10.0,1.8,,Cold-call,53,4,Positive,Neutral,Medium,,SIP,0.0164845502498774,0
+L00326,52,Tier-1,Salaried,51.1,21.7,PMS,Event,121,2,Neutral,Neutral,Low,,SIP,0.0221082992899928,0
+L00327,29,Tier-2,Salaried,36.6,25.6,"FD, Insurance",Event,10,1,Positive,Positive,High,,SIP,0.905149199896481,1
+L00328,44,Tier-1,Salaried,37.6,10.5,,Cold-call,66,3,None-yet,Neutral,High,,PMS,0.0021167489836284,0
+L00329,33,Tier-3,Salaried,71.7,29.5,,Referral,7,4,Objection,Negative,Medium,Trust,SIP,0.001491911842018,0
+L00330,40,Tier-1,Business owner,10.0,7.8,"MF, FD",Referral,66,3,Neutral,Positive,Medium,,MF,0.8314139594039486,1
+L00331,60,Tier-1,Business owner,10.0,2.9,Insurance,Existing-client-family,16,5,Positive,Positive,Medium,,Unclear,0.9326074758785984,1
+L00332,51,Tier-3,Salaried,44.3,22.6,"Direct Equity, FD, PMS",Existing-client-family,2,5,Neutral,Neutral,Low,,SIP,0.3754929557053317,1
+L00333,38,Tier-3,Salaried,36.4,12.2,"Insurance, AIF",Existing-client-family,71,5,None-yet,Neutral,High,,SIP,0.1932299983683661,0
+L00334,35,Tier-1,Retired,41.2,23.7,,Referral,2,6,No-show,Negative,High,Trust,SIP,0.1081301591035269,0
+L00335,45,Tier-1,Salaried,26.5,11.4,Direct Equity,Digital,75,6,Positive,Positive,Medium,,MF,0.6364965913029512,0
+L00336,33,Tier-2,Self-employed,58.3,23.8,,Event,9,3,Positive,Positive,High,,Unclear,0.6104278089035831,1
+L00337,38,Tier-3,Self-employed,70.3,27.2,Insurance,Event,33,4,Neutral,Neutral,Medium,,PMS,0.081431528457627,0
+L00338,48,Tier-1,Business owner,51.4,19.2,,Referral,1,2,Positive,Positive,Medium,,Unclear,0.9525148536316408,1
+L00339,57,Tier-2,Salaried,30.5,8.0,,Cold-call,3,7,None-yet,Neutral,High,,MF,0.1208002528565086,0
+L00340,51,Tier-2,Business owner,10.0,1.0,,Referral,12,3,Objection,Negative,Medium,Timing,MF,0.0225466164250516,1
+L00341,25,Tier-2,Salaried,62.7,34.4,PMS,Digital,18,3,Positive,Neutral,High,,PMS,0.9724943184133048,0
+L00342,48,Tier-2,Self-employed,86.1,38.2,MF,Referral,8,7,No-show,Neutral,High,,Unclear,0.3082965304180081,1
+L00343,46,Tier-2,Salaried,57.5,32.0,"Direct Equity, PMS, AIF",Referral,5,4,Neutral,Neutral,Low,,AIF,0.3965645663056936,1
+L00344,49,Tier-1,Self-employed,19.8,2.2,Insurance,Referral,6,4,Neutral,Positive,Medium,,MF,0.9110058802033094,1
+L00345,61,Tier-3,Self-employed,58.7,10.2,"Direct Equity, Insurance",Existing-client-family,27,7,Objection,Negative,High,Competitor,SIP,0.0495662544274823,0
+L00346,25,Tier-3,Salaried,66.8,18.6,"PMS, MF",Cold-call,2,5,Positive,Neutral,High,,PMS,0.2385109564749164,0
+L00347,39,Tier-2,Salaried,109.0,31.9,"PMS, Direct Equity",Existing-client-family,97,2,Neutral,Negative,Medium,Trust,PMS,0.0803167778514399,0
+L00348,51,Tier-1,Salaried,19.8,8.3,"FD, MF",Digital,99,4,None-yet,Neutral,Medium,,Unclear,0.0841236903545101,1
+L00349,29,Tier-1,Salaried,31.2,8.0,,Digital,3,7,None-yet,Neutral,Medium,,MF,0.0043355346949582,0
+L00350,60,Tier-2,Salaried,61.7,8.4,,Digital,50,1,Neutral,Neutral,Medium,,MF,0.0135139189786965,0
+L00351,49,Tier-1,Retired,38.1,21.0,,Cold-call,46,6,Objection,Negative,High,Competitor,MF,0.0003142063400654,0
+L00352,53,Tier-3,Salaried,16.7,11.1,PMS,Digital,32,4,Neutral,Neutral,Low,,SIP,0.0029241857488693,0
+L00353,39,Tier-1,Business owner,48.9,9.6,AIF,Cold-call,11,5,Objection,Neutral,Medium,,Unclear,0.0210953364345566,0
+L00354,53,Tier-2,Other,54.9,29.4,Insurance,Event,33,5,Neutral,Neutral,Low,,PMS,0.1263796639370694,0
+L00355,56,Tier-3,Salaried,38.9,17.8,,Event,77,5,Objection,Negative,Medium,Competitor,MF,0.001526810356847,0
+L00356,47,Tier-1,Business owner,42.7,3.6,AIF,Referral,14,1,Positive,Positive,Low,,MF,0.8533253793472013,1
+L00357,47,Tier-1,Retired,30.5,4.6,"PMS, MF",Digital,63,2,None-yet,Neutral,Medium,,SIP,0.0071014791558365,0
+L00358,48,Tier-2,Self-employed,103.0,21.6,AIF,Referral,25,4,None-yet,Negative,Low,Pricing,Unclear,0.2389524589506217,0
+L00359,36,Tier-2,Salaried,19.5,10.4,Direct Equity,Referral,89,5,Neutral,Positive,High,,MF,0.8630777466102176,1
+L00360,44,Tier-1,Salaried,24.3,8.9,PMS,Cold-call,38,8,No-show,Neutral,High,,MF,0.0013217818259378,0
+L00361,43,Tier-2,Salaried,36.9,7.8,,Digital,70,4,Positive,Positive,Low,,MF,0.7900664617997594,1
+L00362,49,Tier-3,Self-employed,67.7,12.4,FD,Cold-call,121,6,No-show,Negative,Low,Timing,MF,0.0031964943512749,0
+L00363,55,Tier-1,Other,12.8,5.5,"MF, Direct Equity",Referral,23,2,Neutral,Neutral,High,,MF,0.6121724673187737,1
+L00364,34,Tier-1,Other,14.6,1.0,,Existing-client-family,45,6,Positive,Negative,Low,Competitor,MF,0.3765083572516527,0
+L00365,44,Tier-1,Salaried,10.0,4.5,"AIF, PMS",Existing-client-family,142,0,Objection,Negative,Low,Timing,Unclear,0.0037764059008809,0
+L00366,60,Tier-1,Business owner,37.4,20.1,,Digital,180,4,Neutral,Positive,Low,,MF,0.0134980556732557,0
+L00367,38,Tier-1,Salaried,16.7,8.6,,Event,33,4,Objection,Negative,Low,Trust,SIP,0.0010165171955648,0
+L00368,37,Tier-1,Retired,28.0,12.6,,Referral,115,4,Objection,Negative,Medium,Timing,MF,0.0054307472383962,0
+L00369,47,Tier-2,Salaried,58.1,21.6,AIF,Cold-call,18,3,Positive,Neutral,Medium,,MF,0.386894749709936,0
+L00370,53,Tier-1,Retired,23.4,16.1,,Event,21,5,Positive,Positive,Medium,,MF,0.8108163107576013,1
+L00371,45,Tier-3,Business owner,43.0,12.3,,Event,111,1,Objection,Negative,High,Competitor,MF,0.0058094102566537,0
+L00372,58,Tier-1,Salaried,29.7,24.7,"FD, MF, Direct Equity",Event,40,4,Objection,Neutral,High,,MF,0.2146958474510146,1
+L00373,54,Tier-1,Salaried,58.6,41.3,Direct Equity,Digital,72,6,Positive,Neutral,High,,PMS,0.0423629760140515,0
+L00374,53,Tier-2,Business owner,51.0,1.0,"Insurance, Direct Equity, MF",Event,19,4,Neutral,Neutral,Low,,AIF,0.022581437687777,0
+L00375,51,Tier-3,Salaried,22.5,1.0,PMS,Cold-call,66,4,Objection,Neutral,High,,MF,0.0006056632545783,0
+L00376,68,Tier-1,Self-employed,32.5,14.5,,Referral,77,4,Objection,Neutral,Low,,SIP,0.0418905320432932,0
+L00377,43,Tier-1,Retired,76.0,38.8,,Referral,20,1,None-yet,Neutral,High,,Unclear,0.0237051972334824,0
+L00378,25,Tier-1,Self-employed,48.2,7.4,,Event,29,7,Neutral,Neutral,Medium,,MF,0.0426153723031398,0
+L00379,61,Tier-2,Salaried,13.8,7.1,,Cold-call,16,4,Objection,Negative,Low,Timing,AIF,0.0078454308920343,0
+L00380,40,Tier-1,Salaried,57.9,14.1,AIF,Digital,88,5,Objection,Positive,Medium,,SIP,0.1276330500194047,0
+L00381,46,Tier-1,Salaried,17.1,3.2,,Existing-client-family,48,3,Neutral,Negative,Medium,Pricing,Unclear,0.4220874490054087,0
+L00382,58,Tier-1,Other,98.4,33.9,,Cold-call,7,6,Positive,Neutral,Medium,,PMS,0.0797304846282868,0
+L00383,29,Tier-1,Salaried,75.0,11.4,FD,Digital,125,3,Positive,Positive,High,,SIP,0.1424693636992345,1
+L00384,32,Tier-3,Salaried,44.8,21.3,,Digital,43,4,None-yet,Negative,High,Competitor,SIP,0.0216735245463854,0
+L00385,29,Tier-2,Salaried,40.9,10.7,,Cold-call,20,5,Neutral,Positive,High,,AIF,0.0193250289916217,0
+L00386,37,Tier-1,Other,31.6,1.0,,Event,40,6,Objection,Negative,High,Timing,Unclear,0.0038342168718142,0
+L00387,49,Tier-1,Salaried,58.8,1.0,,Cold-call,10,9,Objection,Negative,Medium,Trust,MF,0.0009670156474536,0
+L00388,50,Tier-1,Retired,28.2,13.6,"AIF, MF",Digital,15,2,Neutral,Negative,Low,Trust,PMS,0.0582141509576553,0
+L00389,48,Tier-1,Business owner,43.2,15.6,PMS,Cold-call,79,5,None-yet,Neutral,Medium,,MF,0.1172330545397714,0
+L00390,31,Tier-2,Business owner,67.4,22.0,"AIF, Insurance",Cold-call,15,7,Objection,Negative,Medium,Competitor,MF,0.019974490537662,0
+L00391,25,Tier-3,Other,24.7,7.7,,Event,158,1,Positive,Positive,Medium,,Unclear,0.7262197636377337,0
+L00392,46,Tier-3,Business owner,23.8,6.6,,Referral,11,2,No-show,Negative,High,Timing,MF,0.0171483431771039,0
+L00393,40,Tier-3,Retired,15.9,7.2,Insurance,Event,91,7,Objection,Negative,High,Competitor,SIP,0.0180671564488691,0
+L00394,50,Tier-3,Salaried,17.4,2.6,,Digital,92,3,Neutral,Neutral,Low,,SIP,0.019814952363541,0
+L00395,52,Tier-3,Business owner,10.2,8.0,,Referral,52,5,No-show,Negative,Medium,Timing,MF,0.0070557214904394,0
+L00396,46,Tier-1,Self-employed,61.0,28.1,,Cold-call,10,3,Objection,Negative,Medium,Competitor,PMS,0.0002068244160118,0
+L00397,53,Tier-1,Self-employed,129.8,41.6,,Cold-call,19,10,Neutral,Positive,Low,,SIP,0.083390873304246,0
+L00398,47,Tier-1,Retired,99.3,39.7,Insurance,Digital,30,5,None-yet,Neutral,High,,SIP,0.2049260445235113,0
+L00399,50,Tier-2,Other,11.7,3.1,MF,Event,62,1,Objection,Negative,High,Pricing,SIP,0.0160602907560522,0
+L00400,38,Tier-1,Business owner,60.8,44.7,,Digital,163,5,Objection,Negative,Medium,Pricing,PMS,0.0047238288319604,0
+L00401,43,Tier-2,Self-employed,99.0,64.0,,Referral,47,6,Positive,Positive,Low,,MF,0.9656023845164732,1
+L00402,47,Tier-2,Self-employed,26.6,6.2,"MF, AIF",Digital,49,7,Neutral,Neutral,Medium,,MF,0.0409170434303677,0
+L00403,53,Tier-2,Salaried,39.3,5.3,,Digital,63,3,Neutral,Positive,Medium,,Unclear,0.5910439527398702,1
+L00404,41,Tier-1,Salaried,10.0,1.0,,Cold-call,25,0,Objection,Negative,Medium,Timing,MF,0.0010930730011026,0
+L00405,50,Tier-1,Salaried,44.1,18.6,"AIF, FD",Event,10,4,Objection,Neutral,High,,PMS,0.0156489154328887,0
+L00406,42,Tier-1,Salaried,17.4,10.7,Direct Equity,Cold-call,96,5,No-show,Negative,Low,Trust,Unclear,0.0061697613974339,0
+L00407,44,Tier-3,Salaried,42.1,9.6,FD,Referral,170,5,Neutral,Positive,Low,,MF,0.3466544789314337,1
+L00408,53,Tier-2,Business owner,12.3,2.2,,Digital,71,3,No-show,Negative,Low,Competitor,SIP,0.0067819180260954,0
+L00409,25,Tier-2,Salaried,53.5,9.7,AIF,Referral,14,7,None-yet,Neutral,High,,Unclear,0.6894106606229348,1
+L00410,32,Tier-1,Retired,75.0,8.1,AIF,Cold-call,42,2,No-show,Neutral,Medium,,SIP,0.0021278450764164,0
+L00411,30,Tier-1,Self-employed,21.2,16.9,"Direct Equity, MF",Referral,48,3,No-show,Negative,Low,Timing,MF,0.0306205890026278,0
+L00412,25,Tier-1,Salaried,16.5,4.1,,Digital,23,3,None-yet,Negative,Medium,Pricing,SIP,0.0082790114624489,0
+L00413,38,Tier-2,Salaried,10.0,3.3,,Event,46,0,Positive,Positive,High,,MF,0.4887056960774056,0
+L00414,52,Tier-2,Salaried,30.4,26.3,"Direct Equity, MF",Cold-call,149,6,Objection,Negative,Medium,Trust,MF,0.0288758897148427,0
+L00415,42,Tier-1,Other,24.4,17.1,"PMS, Direct Equity, Insurance",Digital,29,6,None-yet,Negative,Medium,Trust,SIP,0.09447902920279,0
+L00416,47,Tier-3,Salaried,12.4,3.9,"AIF, Direct Equity",Digital,32,5,Objection,Negative,Low,Timing,Unclear,0.0226382315968181,0
+L00417,56,Tier-1,Self-employed,50.3,13.9,FD,Cold-call,49,5,Neutral,Neutral,Medium,,MF,0.0007388417193969,0
+L00418,58,Tier-3,Retired,26.7,11.3,"Insurance, PMS",Digital,30,8,None-yet,Positive,High,,PMS,0.3748204513367444,0
+L00419,44,Tier-1,Other,17.2,11.1,"AIF, PMS, Direct Equity",Referral,79,3,Positive,Positive,Medium,,MF,0.8560784274161105,1
+L00420,59,Tier-1,Salaried,24.8,5.4,Direct Equity,Event,23,2,Neutral,Neutral,Low,,Unclear,0.1667194284276295,1
+L00421,46,Tier-2,Salaried,77.5,13.5,,Digital,43,4,Positive,Positive,Medium,,PMS,0.4913492401936973,1
+L00422,37,Tier-1,Salaried,55.8,15.7,"MF, Insurance",Digital,66,2,Neutral,Neutral,Medium,,MF,0.0313527382027952,0
+L00423,39,Tier-1,Salaried,33.4,2.3,,Referral,11,4,Neutral,Positive,Low,,MF,0.6796473916060617,1
+L00424,30,Tier-1,Salaried,56.5,22.1,FD,Digital,32,4,Neutral,Positive,Medium,,SIP,0.1861395104489918,0
+L00425,36,Tier-1,Self-employed,16.2,7.4,PMS,Digital,28,4,None-yet,Neutral,Medium,,SIP,0.0443298126799221,0
+L00426,41,Tier-2,Retired,37.4,10.2,"PMS, FD",Digital,25,3,Neutral,Negative,Medium,Timing,PMS,0.009475397092009,0
+L00427,53,Tier-3,Self-employed,40.6,25.7,FD,Cold-call,22,3,Objection,Negative,High,Competitor,AIF,0.0016046080075499,0
+L00428,62,Tier-3,Self-employed,26.3,4.8,"Direct Equity, PMS, AIF",Digital,8,6,None-yet,Neutral,High,,Unclear,0.1028260335297992,0
+L00429,31,Tier-1,Salaried,49.6,22.8,MF,Event,53,3,None-yet,Neutral,Medium,,MF,0.283035025657195,0
+L00430,49,Tier-2,Business owner,21.2,7.6,FD,Existing-client-family,5,6,Neutral,Neutral,High,,AIF,0.3241470176568805,1
+L00431,35,Tier-1,Self-employed,52.3,14.0,,Referral,95,3,Positive,Positive,Low,,SIP,0.7895965388175599,1
+L00432,50,Tier-1,Retired,53.9,12.9,,Referral,18,2,Objection,Negative,Low,Trust,MF,0.0118320655636634,0
+L00433,44,Tier-1,Retired,10.0,1.6,FD,Event,16,2,None-yet,Negative,Low,Timing,MF,0.0669784659337951,0
+L00434,27,Tier-3,Salaried,84.2,29.3,"Direct Equity, PMS, AIF",Existing-client-family,18,4,Objection,Neutral,Low,,SIP,0.0604133045919151,0
+L00435,54,Tier-3,Salaried,10.0,1.4,PMS,Event,108,5,Neutral,Neutral,Low,,MF,0.0496645599774575,0
+L00436,39,Tier-2,Salaried,23.8,13.0,,Referral,19,2,No-show,Negative,Medium,Pricing,MF,0.0314118935897524,0
+L00437,40,Tier-2,Salaried,75.0,21.9,,Digital,36,4,Objection,Positive,Medium,,MF,0.022785086402971,0
+L00438,34,Tier-1,Retired,29.3,5.9,FD,Referral,5,5,Objection,Negative,Low,Competitor,MF,0.0278134041332078,0
+L00439,38,Tier-2,Salaried,13.1,8.3,AIF,Event,82,3,None-yet,Neutral,Low,,Unclear,0.3831096627405617,1
+L00440,49,Tier-2,Business owner,17.0,1.0,,Cold-call,97,3,No-show,Negative,Medium,Pricing,SIP,0.0014404186164862,0
+L00441,43,Tier-1,Self-employed,75.1,13.6,"AIF, FD, MF",Digital,2,6,Objection,Neutral,Medium,,SIP,0.1444638005306749,0
+L00442,48,Tier-1,Salaried,10.0,3.1,MF,Cold-call,16,4,Objection,Negative,Medium,Timing,SIP,0.006906860524814,0
+L00443,49,Tier-1,Salaried,80.7,43.4,"MF, PMS",Digital,8,2,Objection,Neutral,Medium,,Unclear,0.0439393776599549,0
+L00444,58,Tier-3,Business owner,35.2,9.6,,Cold-call,171,1,Objection,Negative,Low,Timing,MF,0.0019143314677384,0
+L00445,42,Tier-1,Business owner,15.9,7.2,MF,Referral,11,2,Neutral,Positive,Medium,,SIP,0.905575368673192,1
+L00446,30,Tier-3,Salaried,24.3,7.1,"Insurance, MF, AIF",Cold-call,61,2,No-show,Negative,Medium,Trust,Unclear,0.0008876179681587,0
+L00447,56,Tier-1,Salaried,18.0,9.0,"PMS, Insurance",Cold-call,71,2,Objection,Neutral,High,,MF,0.0135980182506261,0
+L00448,42,Tier-2,Business owner,67.1,20.5,,Cold-call,120,3,Neutral,Negative,Low,Pricing,PMS,0.0347107122628484,0
+L00449,56,Tier-1,Salaried,61.1,7.6,PMS,Digital,21,1,Positive,Positive,Medium,,MF,0.2399241521590628,1
+L00450,49,Tier-1,Retired,11.0,3.8,FD,Event,6,1,No-show,Negative,Medium,Competitor,PMS,0.0641159235460885,0
+L00451,44,Tier-1,Salaried,27.6,4.5,PMS,Cold-call,4,4,Objection,Negative,Medium,Competitor,Unclear,0.0038338669399825,0
+L00452,48,Tier-1,Salaried,20.0,1.0,,Referral,42,1,Neutral,Neutral,Medium,,MF,0.0511896215996455,0
+L00453,65,Tier-3,Self-employed,90.5,52.8,,Referral,54,2,Neutral,Positive,Medium,,MF,0.7727188291718626,1
+L00454,66,Tier-1,Self-employed,14.2,3.6,,Cold-call,23,8,Neutral,Positive,Low,,MF,0.0113061958521486,0
+L00455,46,Tier-2,Self-employed,112.5,92.0,"FD, Direct Equity",Digital,45,3,None-yet,Positive,Medium,,PMS,0.071619101069019,0
+L00456,47,Tier-1,Salaried,35.8,8.7,,Referral,36,4,None-yet,Positive,High,,MF,0.0640912939000964,0
+L00457,56,Tier-1,Other,16.2,5.5,,Referral,26,2,Objection,Negative,High,Trust,SIP,0.0188372491878123,0
+L00458,37,Tier-2,Self-employed,22.8,5.7,"FD, Insurance",Referral,51,5,Neutral,Negative,High,Timing,SIP,0.070241176114133,0
+L00459,48,Tier-1,Self-employed,20.9,12.7,,Digital,6,7,No-show,Negative,High,Trust,MF,0.003115311233961,0
+L00460,45,Tier-3,Salaried,15.0,5.1,"AIF, Direct Equity, FD",Cold-call,9,2,Objection,Neutral,Low,,PMS,0.0019503217839864,0
+L00461,48,Tier-2,Salaried,39.1,15.8,FD,Referral,55,3,None-yet,Positive,Low,,SIP,0.3807816833725268,0
+L00462,37,Tier-2,Self-employed,15.5,2.1,"FD, Direct Equity, Insurance",Cold-call,180,6,Positive,Positive,Low,,AIF,0.164476023133128,0
+L00463,29,Tier-1,Salaried,10.0,2.3,PMS,Digital,47,1,Positive,Neutral,High,,SIP,0.0941396740646891,0
+L00464,25,Tier-1,Self-employed,28.1,13.0,FD,Digital,26,8,Objection,Negative,High,Pricing,PMS,0.0060548445693551,0
+L00465,34,Tier-3,Salaried,10.4,4.9,,Referral,66,4,Neutral,Neutral,Low,,PMS,0.0490517528760957,0
+L00466,40,Tier-1,Other,21.6,9.7,,Event,180,7,Objection,Neutral,High,,MF,0.00493925536697,0
+L00467,42,Tier-1,Self-employed,19.4,11.0,"FD, PMS, AIF",Existing-client-family,18,5,No-show,Negative,Medium,Pricing,Unclear,0.2131968544345755,1
+L00468,64,Tier-1,Retired,19.9,9.2,"AIF, MF",Digital,18,3,Positive,Positive,Medium,,MF,0.6922273128707103,1
+L00469,56,Tier-2,Self-employed,148.5,56.4,,Referral,0,3,Neutral,Neutral,Medium,,PMS,0.0518334687876479,0
+L00470,35,Tier-2,Salaried,38.1,4.5,,Digital,21,13,Objection,Neutral,High,,SIP,0.0934617526025801,0
+L00471,48,Tier-2,Business owner,43.5,16.9,"Direct Equity, Insurance, MF",Referral,5,7,None-yet,Negative,Medium,Pricing,SIP,0.0424893784075701,0
+L00472,41,Tier-2,Self-employed,10.6,3.9,Insurance,Event,107,3,Neutral,Neutral,Medium,,SIP,0.4948205586203051,1
+L00473,42,Tier-1,Business owner,23.2,7.2,,Referral,138,2,Neutral,Neutral,Medium,,SIP,0.1400822006078381,0
+L00474,47,Tier-3,Salaried,42.6,8.9,"MF, PMS",Existing-client-family,7,4,Objection,Negative,Medium,Competitor,AIF,0.1187798432627418,0
+L00475,51,Tier-1,Self-employed,17.9,11.5,,Cold-call,180,2,Neutral,Positive,High,,PMS,0.0030069537997893,0
+L00476,42,Tier-2,Retired,69.1,23.2,FD,Digital,33,7,No-show,Neutral,High,,MF,0.012263046171272,0
+L00477,56,Tier-1,Self-employed,15.8,2.5,"PMS, FD",Event,1,3,Objection,Neutral,Medium,,SIP,0.0071103083584645,0
+L00478,34,Tier-3,Salaried,30.0,8.5,"Insurance, PMS",Referral,123,4,Neutral,Neutral,High,,SIP,0.1141618790417523,0
+L00479,45,Tier-1,Business owner,24.3,7.8,,Event,22,3,No-show,Neutral,High,,Unclear,0.0090786669662057,0
+L00480,70,Tier-1,Business owner,41.1,9.9,PMS,Referral,82,2,Objection,Positive,Low,,MF,0.0536346032457536,0
+L00481,47,Tier-1,Other,23.4,21.7,Direct Equity,Event,21,4,Positive,Positive,High,,MF,0.6564216127313626,1
+L00482,59,Tier-1,Salaried,30.3,9.0,FD,Digital,12,1,Objection,Negative,Low,Trust,MF,0.0015597440204341,0
+L00483,46,Tier-1,Salaried,31.0,16.9,Direct Equity,Referral,38,4,None-yet,Neutral,High,,MF,0.1576293162437621,0
+L00484,51,Tier-2,Business owner,21.9,9.2,Insurance,Event,8,3,No-show,Negative,Medium,Pricing,MF,0.0250981310151358,0
+L00485,44,Tier-1,Self-employed,51.4,5.8,,Referral,66,2,Neutral,Positive,Low,,AIF,0.0442309330883382,0
+L00486,43,Tier-3,Business owner,43.2,15.3,,Referral,79,2,No-show,Neutral,High,,SIP,0.0458337272197463,0
+L00487,37,Tier-1,Self-employed,34.4,11.0,AIF,Event,11,5,Neutral,Neutral,Low,,AIF,0.0309290902177323,0
+L00488,49,Tier-2,Salaried,27.1,15.9,,Digital,62,3,Objection,Negative,Medium,Competitor,PMS,0.0027022592403914,0
+L00489,36,Tier-1,Business owner,63.9,16.6,PMS,Event,55,5,Objection,Negative,Medium,Timing,AIF,0.0158996849593444,1
+L00490,52,Tier-2,Salaried,31.0,18.2,PMS,Cold-call,144,4,Neutral,Neutral,Low,,SIP,0.0027239141423339,0
+L00491,56,Tier-2,Salaried,29.5,6.3,,Cold-call,5,4,Neutral,Negative,Medium,Trust,SIP,0.0037596405943818,0
+L00492,49,Tier-1,Self-employed,39.4,16.3,AIF,Digital,9,6,None-yet,Negative,High,Timing,PMS,0.0713821053675115,0
+L00493,42,Tier-3,Business owner,120.0,16.4,FD,Referral,21,6,Neutral,Neutral,High,,SIP,0.6305610962941018,1
+L00494,50,Tier-1,Retired,14.3,6.8,,Existing-client-family,10,5,None-yet,Negative,Low,Competitor,MF,0.0365650752165193,0
+L00495,42,Tier-1,Salaried,62.7,12.6,,Referral,24,1,Objection,Negative,Medium,Competitor,MF,0.0463205240027105,0
+L00496,54,Tier-2,Salaried,10.0,1.0,"PMS, FD",Digital,4,3,Objection,Negative,Medium,Competitor,MF,0.0050162586930001,0
+L00497,27,Tier-2,Other,42.6,11.0,,Digital,68,4,Positive,Positive,High,,Unclear,0.4484933274652821,1
+L00498,42,Tier-1,Salaried,110.2,43.3,,Digital,54,3,Neutral,Negative,Medium,Timing,SIP,0.0152085433981714,0
+L00499,25,Tier-1,Salaried,51.5,18.4,"PMS, Insurance",Cold-call,29,6,Positive,Positive,Medium,,SIP,0.5067818841221594,0
+L00500,30,Tier-3,Salaried,41.2,2.9,,Event,128,0,Objection,Neutral,Low,,PMS,0.0216817189105552,0
