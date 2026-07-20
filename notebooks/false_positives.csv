@@ -1,0 +1,11 @@
+lead_id,true_label,predicted_prob,sentiment,urgency,objection,last_meeting_outcome,touchpoints_last_30d,rm_notes
+L00043,0,0.8322358691745964,Neutral,Medium,,Neutral,4,Client said they'd think it over and get back to us. Asked to be contacted again within the week. Didn't specify a particular product.
+L00134,0,0.7743435285278474,Positive,Medium,,Positive,3,Interested in starting a systematic investment plan. Client sounded genuinely interested and asked good follow-up questions.
+L00413,0,0.5561532966961599,Positive,High,,Positive,0,"Said timing is important for them right now. Very engaged on the call, seems ready to move forward soon. Asked about mutual fund options."
+L00458,0,0.5218111927105643,Neutral,Medium,Timing,Neutral,5,"Asked to be contacted again within the week. Said this isn't the right time given current market conditions. Conversation felt one-sided, client gave short answers. Asked about monthly SIP amounts."
+L00111,0,0.44941079978509957,Neutral,High,,Neutral,7,"Asked about monthly SIP amounts. Wants to close this quickly. Client is still exploring options, non-committal for now."
+L00469,0,0.3457218415346468,Neutral,Low,,Neutral,3,"Polite conversation, nothing concrete decided. Asked what PMS minimums look like."
+L00397,0,0.34254931308415804,Positive,Low,,Neutral,10,Asked about monthly SIP amounts. Client sounded genuinely interested and asked good follow-up questions. Mentioned they're in no hurry to decide.
+L00364,0,0.32880938504764007,Neutral,Low,Competitor,Positive,6,"Mentioned they're also evaluating another wealth firm. Interested in SIP-based mutual fund plans. Conversation felt one-sided, client gave short answers. Said there's no urgency, can revisit in a few months."
+L00113,0,0.31036530021195613,Positive,High,,Neutral,3,Client mentioned they want to invest before month end. Interested in SIP-based mutual fund plans.
+L00480,0,0.25594509068498483,Positive,Low,,Objection,2,"Client compared us favorably to their current advisor. Said there's no urgency, can revisit in a few months. Interested in SIP-based mutual fund plans."

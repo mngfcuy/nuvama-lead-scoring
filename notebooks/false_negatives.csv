@@ -1,0 +1,11 @@
+lead_id,true_label,predicted_prob,sentiment,urgency,objection,last_meeting_outcome,touchpoints_last_30d,rm_notes
+L00291,1,0.007550545794287113,Negative,Medium,Pricing,None-yet,4,"Conversation felt one-sided, client gave short answers. Felt the cost structure was too high for the ticket size. Asked about alternative investment funds."
+L00489,1,0.02086259560352203,Neutral,Low,Timing,Objection,5,Wanted to understand AIF risk profile. Client seemed hesitant and raised concerns. Wants to wait until after a personal financial event before deciding.
+L00348,1,0.022387070243914186,Neutral,Low,,None-yet,4,"Standard intro call, no strong signal yet. General interest, no specific product named yet."
+L00099,1,0.02246190627558935,Neutral,Low,,None-yet,4,Asked about monthly SIP amounts. Client said they'd think it over and get back to us.
+L00299,1,0.030677926220376826,Neutral,Low,,None-yet,3,Asked what PMS minimums look like. Client said they'd think it over and get back to us.
+L00038,1,0.03488540972929398,Positive,Low,,None-yet,3,"Very engaged on the call, seems ready to move forward soon. Mentioned they're in no hurry to decide. Curious about portfolio management services for a larger allocation."
+L00216,1,0.08983810458937595,Positive,Medium,,None-yet,6,Asked about monthly SIP amounts. Client sounded genuinely interested and asked good follow-up questions.
+L00247,1,0.10290727995170106,Positive,Low,,None-yet,9,"Interested in starting a systematic investment plan. Said there's no urgency, can revisit in a few months. Client sounded genuinely interested and asked good follow-up questions."
+L00409,1,0.1630707121468397,Neutral,High,,None-yet,7,"Wants to close this quickly. General interest, no specific product named yet. Client listened but didn't commit either way."
+L00080,1,0.2813117316067556,Neutral,Low,,Neutral,1,"Standard intro call, no strong signal yet. No particular rush on their end. Didn't specify a particular product."

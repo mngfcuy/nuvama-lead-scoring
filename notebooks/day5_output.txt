@@ -1,0 +1,64 @@
+Feature matrix shape: (500, 31)
+Features used: ['age', 'annual_income_lakhs', 'investable_surplus_lakhs', 'days_since_first_contact', 'touchpoints_last_30d', 'num_existing_products', 'city_tier_Tier-2', 'city_tier_Tier-3', 'occupation_Other', 'occupation_Retired', 'occupation_Salaried', 'occupation_Self-employed', 'source_Digital', 'source_Event', 'source_Existing-client-family', 'source_Referral', 'last_meeting_outcome_No-show', 'last_meeting_outcome_None-yet', 'last_meeting_outcome_Objection', 'last_meeting_outcome_Positive', 'sentiment_Neutral', 'sentiment_Positive', 'urgency_Low', 'urgency_Medium', 'objection_Pricing', 'objection_Timing', 'objection_Trust', 'product_interest_MF', 'product_interest_PMS', 'product_interest_SIP', 'product_interest_Unclear']
+
+Train size: 400, Test size: 100
+Train positive rate: 0.228
+Test positive rate: 0.23
+
+==================================================
+Logistic Regression
+==================================================
+ROC-AUC: 0.767
+PR-AUC:  0.603  (day4 baseline was 0.525)
+Chosen threshold (max F1): 0.579 (F1=0.636)
+Confusion matrix (rows=actual, cols=predicted):
+[[70  7]
+ [ 9 14]]
+              precision    recall  f1-score   support
+
+           0      0.886     0.909     0.897        77
+           1      0.667     0.609     0.636        23
+
+    accuracy                          0.840       100
+   macro avg      0.776     0.759     0.767       100
+weighted avg      0.836     0.840     0.837       100
+
+
+==================================================
+Random Forest
+==================================================
+ROC-AUC: 0.775
+PR-AUC:  0.599  (day4 baseline was 0.525)
+Chosen threshold (max F1): 0.561 (F1=0.564)
+Confusion matrix (rows=actual, cols=predicted):
+[[72  5]
+ [12 11]]
+              precision    recall  f1-score   support
+
+           0      0.857     0.935     0.894        77
+           1      0.688     0.478     0.564        23
+
+    accuracy                          0.830       100
+   macro avg      0.772     0.707     0.729       100
+weighted avg      0.818     0.830     0.818       100
+
+
+Plots saved to notebooks/plots/
+
+Random Forest feature importances (top 15):
+sentiment_Positive                0.155
+last_meeting_outcome_Positive     0.097
+days_since_first_contact          0.067
+source_Referral                   0.066
+sentiment_Neutral                 0.063
+annual_income_lakhs               0.062
+last_meeting_outcome_None-yet     0.056
+last_meeting_outcome_Objection    0.056
+investable_surplus_lakhs          0.053
+age                               0.051
+num_existing_products             0.035
+touchpoints_last_30d              0.029
+product_interest_Unclear          0.020
+urgency_Low                       0.019
+source_Digital                    0.018
+dtype: float64
